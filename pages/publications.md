@@ -11,92 +11,175 @@ Please visit [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&u
 \* Co-first authors; \# Co-corresponding authors
 
 ### 2023
-- **Chen L\***, Ma R\*, Luo C\*, Xie Q\*, `Ning X`, Sun K, Meng F#, `**Zhou M#**`, **Sun J#**. Noninvasive early differential diagnosis and progression monitoring of ovarian cancer using the copy number alterations of plasma cell-free DNA. _**Translational Ressearch**_, 2023, S1931-5244(23)00126-3.
-- **Zhang Z\***, **Chen H\***, **Yan D**, **Chen L**, **Sun J#** & **`Zhou M#`**. Deep learning identifies a T-cell exhaustion-dependent transcriptional signature for predicting clinical outcomes and response to immune checkpoint blockade. _**Oncogenesis**_, 2023, 12&#40;1&#41;:37.
-- Yang L\*, **Zhang Z\***, Dong J, **Zhang Y**, **Yang Z**, Guo Y, Sun X, Li J, Xing P#, Ying J#, ==**Zhou M#**==. Multi-dimensional characterization of immunological profiles in small cell lung cancer uncovers clinically relevant immune subtypes with distinct prognoses and therapeutic vulnerabilities. _**Pharmacological Research**_, 2023, 194:106844.
-- ++**Zhou M\***++, **Bao S\***, Gong T\*, Wang Q\*, **Sun J**, Li J, Lu M, Sun W, **Su J#**, Chen H# & Liu Z#. The transcriptional landscape and diagnostic potential of long non-coding RNAs in esophageal squamous cell carcinoma. _**Nature Communications**_, 2023, 14&#40;1&#41;:3799.
-- **Han T#**, Wang X#, Shi S, Zhang W, Wang J, **Wu Q**, Li Z, Fu J, Zheng R, Zhang J, Tang Q, Zhang P\*, **Wang C\***. Cancer Cell Resistance to IFNγ Can Occur via Enhanced Double-Strand Break Repair Pathway Activity. _**Cancer Immunol Res.**_ 2023 11(3):381–398.<br>
-[[Abstract]](https://aacrjournals.org/cancerimmunolres/article-abstract/doi/10.1158/2326-6066.CIR-22-0056/716422/Cancer-Cell-Resistance-to-IFN-Can-Occur-via)
-[[Full Paper]](/resources/publications/2023_CIR_INFG.pdf)
-- **Wei H#**, **Han T**, Li T, **Wu Q\***, **Wang C\***. SCREE: a comprehensive pipeline for single-cell multi-modal CRISPR screen data processing and analysis. _**Brief. Bioinformatics**_ 2023 https://doi.org/10.1093/bib/bbad123.<br>
-[[Abstract]](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbad123/7095415?utm_source=advanceaccess&utm_campaign=bib&utm_medium=email)
-[[Full Paper]](/resources/publications/2023_BIB_SCREE.pdf)
-[[Software]](https://github.com/wanglabtongji/SCREE)
-- **Hu J#**, Zhang L#, Xia H#, **Yan Y#**, Zhu X, Sun F, Sun L, Li S, Li D, **Wang J**, **Han Y**, Zhang J, Bian D, Yu H, Chen Y, Fan P, Ma Q, Jiang G, **Wang C\***, Zhang P\*. Tumor microenvironment remodeling after neoadjuvant immunotherapy in non-small cell lung cancer revealed by single-cell RNA sequencing. _**Genome Med.**_ 2023 15(1):1-14.<br>
-[[Abstract]](https://link.springer.com/article/10.1186/s13073-023-01164-9)
-[[Full Paper]](/resources/publications/2023_GM_NSCLC.pdf)
-- Cao G#, **Yue J#**, Ruan Y#, **Han Y**, Zhi Y, Lu J, Liu M, Xu X, Wang J, Gu Q, Wen X, Gao J, Kang J, Zhang Q, **Wang C\***, Li F\*. Single-cell Dissection of Cervical Cancer Reveals Key Subsets of the Tumor Immune Microenvironment. _**EMBO J.**_ 2023; accepted. <br>
-[[Abstract]](https://www.embopress.org/doi/abs/10.15252/embj.2022110757)
-[[Full Paper]](/resources/publications/2023_EMBOJ_CESC.pdf)
-- **Han Y#**, **Wang Y#**, **Dong X#**, **Sun D**, **Liu Z**, **Yue J**, Wang H, Li T\*, **Wang C\***. TISCH2: expanded datasets and new tools for single-cell transcriptome analyses of the tumor microenvironment. _**Nucleic Acids Res.**_ 2023 51(D1):D1425-D1431.<br> 
-[[Abstract]](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac959/6793806?login=false)
-[[Full Paper]](/resources/publications/2022_NAR_TISCH.pdf)
-[[Software]](http://tisch.comp-genomics.org/)
-- **Shi X#**, Yu Z#, **Ren P**, **Dong X**, Ding X, Song J, Zhang J, Li T\*, **Wang C\***. HUSCH: an integrated single-cell transcriptome atlas for human tissue gene expression visualization and analyses. _**Nucleic Acids Res.**_ 2023 51(D1):D1029-D1037.<br>
-[[Abstract]](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac1001/6786201?login=false)
-[[Full Paper]](/resources/publications/2022_NAR_HUSCH.pdf)
-[[Software]](http://husch.comp-genomics.org/)
-- Sahu A#\*, Wang X#, Munson P#, Klomp J, Wang X, Gu S, **Han Y**, Qian G, Nicol P, Zeng Z, **Wang C**, Tokheim C, Zhang W, Fu J, Wang J, Nair N, Rens J, Bourajjaj M, Jansen B, Leenders I, Lemmers J, Musters M, Zanten S, Zelst L, Worthington J, Liu J, Juric D, Meyer C, Oubrie A, Liu X, Fisher D\*, Flaherty K\*. Discovery of Targets for Immune–Metabolic Antitumor Drugs Identifies Estrogen-Related Receptor Alpha. _**Cancer Discov.**_ 2023 13(3):672-701.<br>
+- **Chen L\***, Ma R\*, Luo C\*, Xie Q\*, Ning X, Sun K, Meng F#, **`Zhou M#`**, **`Sun J#`**. Noninvasive early differential diagnosis and progression monitoring of ovarian cancer using the copy number alterations of plasma cell-free DNA. _**Translationa
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/37499745)
+<span class='__dimensions_badge_embed__' data-pmid='37499745' data-style='large_rectangle' style='display: inline-block;'></span>
+- **Zhang Z\***, **Chen H\***, **Yan D**, **Chen L**, **`Sun J#`** & **`Zhou M#`**. Deep learning identifies a T-cell exhaustion-dependent transcriptional signature for predicting clinical outcomes and response to immune checkpoint blockade. _**Oncogenesi
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/37433793)
+<span class='__dimensions_badge_embed__' data-pmid='37433793' data-style='large_rectangle' style='display: inline-block;'></span>
+- Yang L\*, **Zhang Z\***, Dong J, **Zhang Y**, **Yang Z**, Guo Y, Sun X, Li J, Xing P#, Ying J#, **`Zhou M#`**. Multi-dimensional characterization of immunological profiles in small cell lung cancer uncovers clinically relevant immune subtypes with disti
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/37392900)
+<span class='__dimensions_badge_embed__' data-pmid='37392900' data-style='large_rectangle' style='display: inline-block;'></span>
+- **`Zhou M\*`**, **Bao S\***, Gong T\*, Wang Q\*, **`Sun J`**, Li J, Lu M, Sun W, **Su J#**, Chen H# & Liu Z#. The transcriptional landscape and diagnostic potential of long non-coding RNAs in esophageal squamous cell carcinoma. _**Nature Communications*
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/37365153)
+<span class='__dimensions_badge_embed__' data-pmid='37365153' data-style='large_rectangle' style='display: inline-block;'></span>
+- **Yang Z**, **Zhang Y**, **Xu K**, **`Sun J#`**, Wu Y#, **`Zhou M#`**. DeepDrRVO: A GAN-auxiliary two-step masked transformer framework benefits early recognition and differential diagnosis of retinal vascular occlusion from color fundus photographs. _*
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/37329618)
+<span class='__dimensions_badge_embed__' data-pmid='37329618' data-style='large_rectangle' style='display: inline-block;'></span>
+- **Su J\*#**, **Yuan J\***, Xu L\*, **Xing S\***, Sun M\*, **Yao Y**, **Ma Y**, **Chen F**, Jiang L, **Li K**, **Yu X**, **Xue Z**, **Zhang Y**, **Fan D**, **Zhang J**, **Liu H**, Liu X, Zhang G, Wang H, **`Zhou M`**, Lyu F, An G, Yu X, MAGIC, Xue Y#, Ya
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/37171956)
+<span class='__dimensions_badge_embed__' data-pmid='37171956' data-style='large_rectangle' style='display: inline-block;'></span>
+- Jiang D\*, **Yan C\***, Ge L, Yang C, Huang Y, Chan YK, Chen C, Chen W, **`Zhou M#`** and Lin B#. Metabolomic analysis of aqueous humor reveals potential metabolite biomarkers for differential detection of macular edema. _**Eye and Vision**_, 2023,10(1)
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/37004107)
+<span class='__dimensions_badge_embed__' data-pmid='37004107' data-style='large_rectangle' style='display: inline-block;'></span>
+- **Yan C\***, **Li K\***, Meng F\*, **Chen L**, **Zhao J**, **Zhang Z**, Xu D#, **`Sun J#`**, **`Zhou M#`**. Integrated immunogenomic analysis of single-cell and bulk tissue transcriptome profiling unravels a macrophage activation paradigm associated wit
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/36725186)
+<span class='__dimensions_badge_embed__' data-pmid='36725186' data-style='large_rectangle' style='display: inline-block;'></span>
+- **Yan C\***, Hu X\*, Liu X\*, **Zhao J**, Le Z, Feng J, **`Zhou M`**, Ma X#, Zheng Q#, **`Sun J#`**. Upregulation of SLC12A3 and SLC12A9 Mediated by the HCP5/miR-140-5p Axis Confers Aggressiveness and Unfavorable Prognosis in Uveal Melanoma. _**Laborato
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/36925204)
+<span class='__dimensions_badge_embed__' data-pmid='36925204' data-style='large_rectangle' style='display: inline-block;'></span>
 
 ### 2022
-- **Sun D#**, **Liu Z**, Li T, **Wu Q\***, **Wang C\***. STRIDE: accurately decomposing and integrating spatial transcriptomics using single-cell RNA sequencing. _**Nucleic Acids Res.**_ 2022 50(7):e42-e42.<br>
-[[Abstract]](https://academic.oup.com/nar/article-abstract/50/7/e42/6543547)
-[[Full Paper]](/resources/publications/2022_NAR_STRIDE.pdf)
-[[Software]](https://github.com/wanglabtongji/STRIDE)
-- **Dong X#**, **Tang K#**, **Xu Y**, **Wei H**, **Han T**, **Wang C\***. Single-cell Gene Regulation Network Inference by Large-scale Data Integration. _**Nucleic Acids Res.**_ 2022 50(21):e126-e126.<br>
-[[Abstract]](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac819/6717821?login=false)
-[[Full Paper]](/resources/publications/2022_NAR_SCRIP.pdf)
-[[Software]](https://github.com/wanglabtongji/SRIP)
-- **Liu Z#**, **Sun D**, **Wang C\***. Evaluation of cell-cell interaction methods by integrating single-cell RNA sequencing data with spatial information. _**Genome Biol.**_ 2022 23(1):1-38.<br> 
-[[Abstract]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02783-y)
-[[Full Paper]](/resources/publications/2022_GB_CCI.pdf)
-[[Software]](https://github.com/wanglabtongji/CCI)
-- Xu R#, Li S#, Wu Q#, Li C#, Jiang M#, Guo L, Chen M, Yang L, Dong X, Wang H, **Wang C\***, Liu X\*, Ou X\*, Gao S\*. Stage-specific H3K9me3 occupancy ensures retrotransposon silencing in human preimplantation embryos. _**Cell Stem Cell**_ 2022 29(7):1051-1066.<br>
-[[Abstract]](https://www.sciencedirect.com/science/article/abs/pii/S1934590922002508)
-[[Full Paper]](/resources/publications/2022_CSC_H3K9me3.pdf)
-- **Wang C#**, Chen C#, Liu X#, Li C#, Wu Q, Chen X, Yang L, Kou X, Zhao Y, Wang H, Gao Y\*, Zhang Y\*, Gao S\*. Dynamic nucleosome organization after fertilization reveals regulatory factors for mouse zygotic genome activation. _**Cell Res.**_ 2022 32(9):801-813.<br>
-[[Abstract]](https://www.nature.com/articles/s41422-022-00652-8)
-[[Full Paper]](/resources/publications/2022_CR_Nucleosome.pdf)
-- **Ren P#**, **Shi X#**, **Dong X**, Yu Z, Ding X, Wang J, Sun L, Yan Y, Hu J, Zhang P, Chen Q, Li T, **Wang C\***. SELINA: Single-cell Assignment using Multiple-Adversarial Domain Adaptation Network with Large-scale References. _**bioRxiv**_ 2022.01.14.476306
-[[Abstract]](https://www.biorxiv.org/content/10.1101/2022.01.14.476306v1.abstract)
-[[Full Paper]](https://www.biorxiv.org/content/10.1101/2022.01.14.476306v1.full.pdf)
-[[Software]](https://github.com/wanglabtongji/SELINA)
+- **Bao S\***, Zhou T\*, **Yan C**, Bao J, Yang F, Chao S, **`Zhou M#`** and Xu Z#. A blood-based miRNA signature for early non-invasive diagnosis of preeclampsia. _**BMC Medicine**_, 2022, 20(1):303
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/36096786)
+<span class='__dimensions_badge_embed__' data-pmid='36096786' data-style='large_rectangle' style='display: inline-block;'></span>
+- **Zhang Z\***, **Chen L\***, **Chen H**, **Zhao J**, **Li K**, **`Sun J#`**, **`Zhou M#`**. Pan-cancer landscape of T-cell exhaustion heterogeneity within the tumor microenvironment revealed a progressive roadmap of hierarchical dysfunction associated w
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/35961204)
+<span class='__dimensions_badge_embed__' data-pmid='35961204' data-style='large_rectangle' style='display: inline-block;'></span>
+- **Li C\***, **Shi X\***, **Yang J**, **Li K**, **Dai L**, **Zhang Y**, **`Zhou M#`**, **Su J#**. Genome-wide characterization of RNA editing highlights roles of high editing events of glutamatergic synapse during mouse retinal development. _**Computatio
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/35685368)
+<span class='__dimensions_badge_embed__' data-pmid='35685368' data-style='large_rectangle' style='display: inline-block;'></span>
+- **Zhao J\***, Yi Q\*, **Li K**, **Chen L**, **Dai L**, Feng J, Li Y#, **`Zhou M#`**, **`Sun J#`**. A multi-omics deep learning model for hypoxia phenotype to predict tumor aggressiveness and prognosis in uveal melanoma for rationalized hypoxia-targeted 
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/35782742)
+<span class='__dimensions_badge_embed__' data-pmid='35782742' data-style='large_rectangle' style='display: inline-block;'></span>
+- Ren Y\*, **Yan C\***, Wu L\*, **Zhao J**, Chen M, **`Zhou M`**, Wang X, Liu T#, Yi Q# and **`Sun J#`**. iUMRG: multi-layered network-guided propagation modeling for the inference of susceptibility genes and potential drugs against uveal melanoma. _**npj
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/35610253)
+<span class='__dimensions_badge_embed__' data-pmid='35610253' data-style='large_rectangle' style='display: inline-block;'></span>
+- Yu Y\*, **Zhang Z\***, Meng Q\*, Wang K, Li Q, Ma Y, Yao Y, **`Sun J#`** and Wang G#. Efficacy of Different Number of XELOX or SOX Chemotherapy Cycles After D2 Resection for Stage III Gastric Cancer. _**Journal of Gastric Cancer**_, 2022,22(2):107-119.
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/35534448)
+<span class='__dimensions_badge_embed__' data-pmid='35534448' data-style='large_rectangle' style='display: inline-block;'></span>
+- Xi Y\*, Lin Y\*, Guo W\*, **Wang X**, **Zhao H**, Miao C, Liu W, Liu Y, Liu T, Luo Y, Fan W, Lin A, Chen Y, Sun Y, Ma Y, Niu X, Zhong C, Tan W, **`Zhou M`**, **Su J#**, Wu C# and Lin D#. Multi-omic characterization of genome-wide abnormal DNA methylatio
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/35210398)
+<span class='__dimensions_badge_embed__' data-pmid='35210398' data-style='large_rectangle' style='display: inline-block;'></span>
+- Ji W\*, **Chen L\***, Yang W\*, **Li K**, **Zhao J**, **Yan C**, You C, Jiang M, **`Zhou M#`** & **Shen X#**. Transcriptional landscape of circulating platelets from patients with COVID-19 reveals key subnetworks and regulators underlying SARS-CoV-2 inf
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/35139909)
+<span class='__dimensions_badge_embed__' data-pmid='35139909' data-style='large_rectangle' style='display: inline-block;'></span>
+- **`Sun J\*`**, **Yan C\***, Xu D\*, **Zhang Z**, **Li K**, Li X, **`Zhou M#`** & Hao D#. Immuno-genomic characterisation of high-grade serous ovarian cancer reveals immune evasion mechanisms and identifies an immunological subtype with a favourable prog
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/35017656)
+<span class='__dimensions_badge_embed__' data-pmid='35017656' data-style='large_rectangle' style='display: inline-block;'></span>
 
 ### 2021
-- Zhang H#, Song L#, Wang X, Cheng H, **Wang C**, Meyer CA, Liu T, Tang M, Aluru S, Yue F, Liu XS\*, Li H\*. Fast alignment and preprocessing of chromatin profiles with Chromap. _**Nat. Commun.**_ 2021 12(1):6566.<br>	
-- Wu SZ#, Al-Eryani G#,  Roden DL#, Junankar S, Harvey K, Andersson A, Thennavan A, **Wang C**, Torpy JR, Bartonicek N, Wang T, Larsson L, Kaczorowski D, Weisenfeld NI, Uytingco CR, Chew JG, Bent ZW, Chan C, Gnanasambandapillai V, Dutertre CA, Gluch L, Hui M, Beith J, Parker A, Robbins E, Segara D, Cooper C, Mak C, Chan B, Warrier S, Ginhoux F, Millar E, Powell JE, Williams TR,Liu XS, O'Toole S, Lim E, Lundeberg J, Perou CM, Swarbrick A\*. A single-cell and spatially resolved atlas of human breast cancers. _**Nat. Genet.**_ 2021 53(9):1334-1347.<br>
+- **Bao S\***, **Li K**, **Yan C**, **Zhang Z**, Qu J#, **`Zhou M#`**. Deep learning-based advances and applications for single-cell RNA-sequencing data analysis.  _**Briefings in Bioinformatics**_, 2021, 23(1):bbab473.
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/34849562)
+<span class='__dimensions_badge_embed__' data-pmid='34849562' data-style='large_rectangle' style='display: inline-block;'></span>
+- Li CX\*, Gao J\*, **Zhang Z**, **Chen L**, Li X#, **`Zhou M#`**, Wheelock ÅM#. Multiomics integration-based molecular characterizations of COVID-19. _**Briefings in Bioinformatics**_, 2021, 23(1):bbab485.
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/34864875)
+<span class='__dimensions_badge_embed__' data-pmid='34864875' data-style='large_rectangle' style='display: inline-block;'></span>
+- Ji X\*, **Zhang Z\***, Lin D, Dai M, Zhao X, Guo X, Du J, **`Zhou M#`**, WangY#. A novel clinical five-risk factor panel for individualized recurrence risk assessment of patients with acute anterior uveitis. _**Transl Vis Sci Technol**_, 2021,10(13):29.
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/34817576)
+<span class='__dimensions_badge_embed__' data-pmid='34817576' data-style='large_rectangle' style='display: inline-block;'></span>
+- **`Zhou M\*`**, **Hou P\***, **Yan C\***, **Chen L**, **Li K**, **Wang Y**, **Zhao J**, **Su J#** & **`Sun J#`**. Cell-free DNA 5-hydroxymethylcytosine profiles of long non-coding RNA genes enable early detection and progression monitoring of human canc
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/34689838)
+<span class='__dimensions_badge_embed__' data-pmid='34689838' data-style='large_rectangle' style='display: inline-block;'></span>
+- Xu L\*, Zhuang Y\*, Zhang G\*, **Ma Y\***, **Yuan J\***, Tu C, Li MM, Wang W, **Zhang Y**, Lu X, Li J, Liu X, **Xue Z**, **`Zhou M`**, **`Sun J`**, Bao J, Li M, Lu F#, Wang H#, **Su J#**, Qu J#. Design, methodology, and baseline of whole city-million sc
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/34407890)
+<span class='__dimensions_badge_embed__' data-pmid='34407890' data-style='large_rectangle' style='display: inline-block;'></span>
+- Wang G\*, Xu D\*, **Zhang Z\***, Li X, Shi J, **`Sun J`**, Liu HZ, Li X#, **`Zhou M#`** & Zheng T#. The pan-cancer landscape of crosstalk between epithelial-mesenchymal transition and immune evasion relevant to prognosis and immunotherapy response. _**n
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/34158591)
+<span class='__dimensions_badge_embed__' data-pmid='34158591' data-style='large_rectangle' style='display: inline-block;'></span>
+- **Zhang Z\***, **Yan C\***, **Li K**, **Bao S**, Li L, **Chen L**, **Zhao J**, **`Sun J#`** & **`Zhou M#`**. Pan-cancer characterization of lncRNA modifiers of immune microenvironment reveals clinically distinct de novo tumor subtypes. _**npj Genomic Me
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/34140519)
+<span class='__dimensions_badge_embed__' data-pmid='34140519' data-style='large_rectangle' style='display: inline-block;'></span>
+- Wang X\*, Qian T\*, **Bao S\***, **Zhao H**, Chen H, Xing Z, Li Y, Zhang M, Meng X, Wang C, Wang J, Gao H, Liu J#, **`Zhou M#`**, Wang X#. Circulating exosomal miR-363-5p inhibits lymph node metastasis by downregulating PDGFB and serves as a potential n
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/34058065)
+<span class='__dimensions_badge_embed__' data-pmid='34058065' data-style='large_rectangle' style='display: inline-block;'></span>
+- Xu L\*, **Ma Y\***, **Yuan J\***, **Zhang Y\***, Wang H\*, Zhang G, Tu C, Lu X, Li J, **Xiong Y**, **Chen F**, Liu X, **Xue Z**, **`Zhou M`**, Li W, Wu N, Bao J, Chen H, Lu F#, **Su J#**, Qu J#. COVID-19 quarantine reveals behavioral changes effect on m
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/33857574)
+<span class='__dimensions_badge_embed__' data-pmid='33857574' data-style='large_rectangle' style='display: inline-block;'></span>
+- Liu J\*, **Zhao H\***, **Huang Y\***, Xu S\*, Zhou Y, Zhang W, Li J, Ming Y, **Wang X**, Zhao S, **Li K**, Dong X, **Ma Y**, Qian T, Chen X, Xing Z, Zhang Y, Chen H, Liu Z, Pang D, **`Zhou M`**, Wu Z, Wang X, Wang X#, Wu N# and **Su J#**. Genome-wide ce
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/33608029)
+<span class='__dimensions_badge_embed__' data-pmid='33608029' data-style='large_rectangle' style='display: inline-block;'></span>
+- **Bao S\***, Hu T\*, Liu J\*, **Su J**, **`Sun J`**, Ming Y, Li J, Wu N#, Chen H# and **`Zhou M#`**. Genomic instability-derived plasma extracellular vesicle-microRNA signature as a minimally invasive predictor of risk and unfavorable prognosis in breas
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/33436002)
+<span class='__dimensions_badge_embed__' data-pmid='33436002' data-style='large_rectangle' style='display: inline-block;'></span>
+- **Hou P**, **Bao S**, **Fan D**, **Yan C**, **Su J**, Qu J#, **`Zhou M#`**. Machine learning-based integrative analysis of methylome and transcriptome identifies novel prognostic DNA methylation signature in uveal melanoma. _**Briefings in Bioinformatic
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/33367533)
+<span class='__dimensions_badge_embed__' data-pmid='33367533' data-style='large_rectangle' style='display: inline-block;'></span>
 
 ### 2020
-- **Sun D#**, **Wang J#**, **Han Y#**, **Dong X**, **Zheng R**, **Ge J**, **Shi X**, **Wang B**, **Ren P**, Sun L, Yan Y, Zhang P, Zhang F\*, Li T\*, **Wang C\***. TISCH: a comprehensive web resource enabling interactive single-cell transcriptome visualization of tumor microenvironment. _**Nucleic Acids Res.**_ 2020 49(D1):D1420-D1430.<br>
-[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/33179754/)
-[[Full Paper]](/resources/publications/2020_NAR_TISCH.pdf)
-[[Website]](http://tisch.comp-genomics.org/)
-- **Wang C#**, **Sun D#**, Huang X, Wan C, Li Z, **Han Y**, Qin Q, Fan J, Qiu X, Xie Y, Meyer CA, Brown M, Tang M, Long H, Liu T\*, Liu XS\*. Integrative analyses of single-cell transcriptome and regulome using MAESTRO. _**Genome Biol.**_ 2020 21(1):1-28.<br>
-[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32767996)
-[[Full Paper]](/resources/publications/2020_GB_MAESTRO.pdf)
-[[Software]](http://github.com/liulab-dfci/MAESTRO)
-- Burton A, Brochard V, Galan C, Ruiz-Morales E, Rovira Q, Rodriguez-Terrones D, Kruse K, Gras S, Udayakumar V, Chin H, Eid A, Liu X, **Wang C**, Gao S, Pradhan S, Vaquerizas J, Beaujean N, Jenuwein T, Torres-Padilla M. Heterochromatin establishment during early mammalian development is regulated by pericentromeric RNA and characterized by non-repressive H3K9me3. _**Nat. Cell Biol.**_ 2020 22(7):767-778.<br>
-- Wu SZ#, Roden D#, **Wang C**, Holliday H, Harvery K, Cazet AS, Murphy KJ, Pereira B, Al-Eryani G, Bartonicek N, Hou R, Torpy JR, Junankar S, Chan C, Lam CE, Hui M, Gluch L, Beith J, Parker A, Robbins E, Segara D, Mark C, Cooper C, Warrier S, Forrest A, Powell J, O’Toole S, Cox TR, Timpson P, Lim E, Liu XS, Swarbrick A\*. Stromal cell diversity associated with immune evasion in human triple-negative breast cancer. _**EMBO J.**_ 2020 39(19):e104063.<br>
+- **Zhang Y\***, **Ma Y\***, **Huang Y**, **Zhang Y**, **Jiang Q**, **`Zhou M`**, **Su J#**. Benchmarking algorithms for pathway activity transformation of single-cell RNA-seq data.  _**Computational and Structural Biotechnology Journal**_, 2020, 18:2953-
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/33209207)
+<span class='__dimensions_badge_embed__' data-pmid='33209207' data-style='large_rectangle' style='display: inline-block;'></span>
+- **Zhang Y\***, **Zhang Y\***, Hu J\*, **Zhang J**, **Guo F**, **`Zhou M`**, Zhang G#, Yu F#, **Su J#**, scTPA: a web tool for single-cell transcriptome analysis of pathway activation signatures. _**Bioinformatics**_, 2020, 36(14):4217-4219.
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32437538)
+<span class='__dimensions_badge_embed__' data-pmid='32437538' data-style='large_rectangle' style='display: inline-block;'></span>
+- **Yu F\***, **Li K\***, **Li S\***, **Liu J**, **Zhang Y**, **`Zhou M`**, **Zhao H**, Chen H, Wu N, Liu Z#, **Su J#**. CFEA: a cell-free epigenome atlas in human diseases. _**Nucleic acids research**_, 2020, 48(D1): D40-D44.
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31428785)
+<span class='__dimensions_badge_embed__' data-pmid='31428785' data-style='large_rectangle' style='display: inline-block;'></span>
+- **`Sun J\*`**, **Zhang Z\***, **Bao S\***, **Yan C**, **Hou P**, Wu N, **Su J**, Xu L#, **`Zhou M#`**. Identification of tumor immune infiltration-associated lncRNAs for improving prognosis and immunotherapy response of patients with non-small cell lung
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32041817)
+<span class='__dimensions_badge_embed__' data-pmid='32041817' data-style='large_rectangle' style='display: inline-block;'></span>
+- **`Zhou M\*`**，**Zhang Z\***, **Bao S\***, **Hou P**, **Yan C**, **Su J#**, **`Sun J#`**. Computational recognition of lncRNA signature of tumor-infiltrating B lymphocytes with potential implications in prognosis and immunotherapy of bladder cancer. _**
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32382761)
+<span class='__dimensions_badge_embed__' data-pmid='32382761' data-style='large_rectangle' style='display: inline-block;'></span>
+- **Zhao H\***, Gu S\*, **Bao S**, **Yan C**, Zhang Z, **Hou P**, **`Zhou M#`**，**`Sun J#`**. Mechanistically-derived patient-level framework for precision medicine identifies a personalized immune prognostic signature in high-grade serous ovarian cancer.
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32436954)
+<span class='__dimensions_badge_embed__' data-pmid='32436954' data-style='large_rectangle' style='display: inline-block;'></span>
+- **Zhang Z**, **Bao S**, **Hou P**, **Yan CC**, **`Zhou M#`**, **`Sun J#`**. Computational principles and practice for decoding immune contexture in the tumor microenvironment. _**Briefings in Bioinformatics**_, 2020, 22(3):bbaa075.
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32496512)
+<span class='__dimensions_badge_embed__' data-pmid='32496512' data-style='large_rectangle' style='display: inline-block;'></span>
 
-### Before 2020
-- **Wang C#**, Liu X#, Gao Y#\*, Yang L#, Li C, Liu W, Chen C, Kou X, Zhao Y, Chen J, Wang Y, Le R, Wang H, Duan T, Zhang Y\*, Gao S\*. Reprogramming of H3K9me3-dependent heterochromatin during mammalian embryo development. _**Nat. Cell Biol.**_ 2018 20(5):620-631.<br>
-[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/29686265)
-[[Full Paper]](/resources/publications/2018_NCB_H3K9me3.pdf)
-- Gao R#, **Wang C#**, Gao Y#, Bai D, Liu X, Kou X, Zhao Y, Zang R, Liao Y, Jia Y, Chen J, Wang H, Wan X, Liu W\*, Zhang Y\*, Gao S$\*. Inhibition of aberrant DNA re-methylation improves the development of nuclear transfer embryos. _**Cell Stem Cell**_ 2018 23(3):426-435.<br>
-[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/30146410)
-[[Full Paper]](/resources/publications/2018_CSC_NTmethyl.pdf)
-- Gao R#, Xiu W#, Zhang L, Zang R, Yang L, Wang C, Wang M, Wang M, Yi L, Tang Y, Gao Y, Wang H, Xi J, Liu W, Wang Y, Wen X, Yu Y, Zhang Y, Chen L, Chen J\*, Gao S\*. Direct induction of neural progenitor cells transiently passes through a partially reprogrammed state. _**Biomaterials**_ 2017; 119:53-67.<br>
-- Liu X#, **Wang C#**, Liu W#, Li J#, Li C, Kou X, Chen J, Zhao Y, Gao H, Wang H, Zhang Y\*, Gao Y\*, Gao S\*. Distinct features of H3K4me3 and H3K27me3 chromatin domains in pre-implantation embryos. _**Nature**_ 2016 537(7621):558-562. <br>
-[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/27626379)
-[[Full Paper]](/resources/publications/2016_Nature_H3K4me3H3K27me3.pdf)
-- Liu W#, Liu X#, **Wang C#**, Gao Y#, Gao R, Kou X, Zhao Y, Li J, Wu Y, Xiu W, Wang S, Yin J, Liu W, Cai T, Wang H, Zhang Y\*, Gao S\*. Identification of key factors conquering developmental arrest of somatic cell cloned embryos by combining embryo biopsy and single-cell sequencing. _**Cell Discov.**_ 2016 2(1):1-15.<br>
-[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/27462457)
-[[Full Paper]](/resources/publications/2016_CD_NTexpr.pdf)
-- Xu K#, Chen X#, Yang H, Xu Y, He Y, **Wang C**, Huang H, Liu B, Liu W, Li J, Kou X, Zhao Y, Zhao K, Zhang L, Hou Z, Wang H, Wang H, Li J, Fan H, Wang F, Gao Y, Zhang Y, Chen J\*, Gao S\*. Maternal Sall4 is indispensable for epigenetic maturation of mouse oocytes. _**J. Biol. Chem.**_ 2017; 292:1798-1807.<br>
-- Wang Y, Wu Q, Yang P, **Wang C**, Liu J, Ding W, Liu W, Bai Y, Yang Y, Wang H, Gao S\*, Wang X\*. LSD1 co-repressor Rcor2 orchestrates neurogenesis in the developing mouse brain. _**Nat. Commun.**_ 2016; 7:10481.<br>
-- Xu H#, Xu K#, He HH, Zang C, Chen CH, Chen Y, Qin Q, Wang S, **Wang C**, Hu S, Li F, Long H, Brown M\*, Liu XS\*. Integrative analysis reveals the transcriptional collaboration between EZH2 and E2F1 in the regulation of cancer-related gene expression. _**Mol. Cancer Res.**_ 2016;14(2):163-72.<br>
-- Zhang Y#\*, Vastenhouw NL#\*, Feng J, Fu K, **Wang C**, Ge Y, Pauli A, van Hummelen P, Schier AF\*, Liu XS\*. Canonical nucleosome organization at promoters forms during genome activation. _**Genome Res.**_ 2014; 24(2):260-6.<br>
-- Wang J, Lin X, Wang S, **Wang C**, Wang Q, Duan X, Lu P, Wang Q, Wang C, Liu XS, Huang J\*. PHF8 and REST/NRSF co-occupy gene promoters to regulate proximal gene expression. _**Sci. Rep.**_ 2014; 4:5508.<br>
-- Wang S, Sun Hanfei, Ma J, Zang C, **Wang C**, Wang J, Tang Q, Meyer CA, Zhang Y\*, Liu XS\*. Target analysis by integration of transcriptome and ChIP-seq data with BETA. _**Nat. Protoc.**_ 2013; 8:2502-15.<br>
+### 2019
+- **`Zhou M\*`**, **Zhao H\***, **Wang X**, **`Sun J#`**, **Su J#**. Analysis of long noncoding RNAs highlights region-specific altered expression patterns and diagnostic roles in Alzheimer&#39;s disease. _**Briefings in Bioinformatics**_, 2019, 20(2): 59
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/29672663)
+<span class='__dimensions_badge_embed__' data-pmid='29672663' data-style='large_rectangle' style='display: inline-block;'></span>
+- **`Sun J\*`**, **Bao S**, Xu D, **Zhang Y**, **Su J**, Liu J, Hao D#, **`Zhou M#`**. Large-scale integrated analysis of ovarian cancer tumors and cell lines identifies an individualized gene expression signature for predicting response to platinum-based
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31506427)
+<span class='__dimensions_badge_embed__' data-pmid='31506427' data-style='large_rectangle' style='display: inline-block;'></span>
+- **Bao S\***, **Zhao H**, **Yuan J**, **Fan D**, **Zhang Z**, **Su J#**, **`Zhou M#`**. Computational identification of mutator-derived lncRNA signatures of genome instability for improving the clinical outcome of cancers: a case study in breast cancer. 
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31665214)
+<span class='__dimensions_badge_embed__' data-pmid='31665214' data-style='large_rectangle' style='display: inline-block;'></span>
 
+### 2018
+- **`Zhou M\*`**, **Zhang Z\***, **Zhao H**, **Bao S**, **`Sun J#`**. A novel lncRNA-focus expression signature for survival prediction in endometrial carcinoma. _**BMC Cancer**_, 2018, 18(1):39.
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/29304762)
+<span class='__dimensions_badge_embed__' data-pmid='29304762' data-style='large_rectangle' style='display: inline-block;'></span>
+- **`Zhou M\*`**, **Zhang Z\***, **Zhao H**, **Bao S**, Cheng L, **`Sun J#`**. An Immune-Related Six-lncRNA Signature to Improve Prognosis Prediction of Glioblastoma Multiforme. _**Molecular Neurobiology**_, 2018, 55(5):3684-3697.
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/28527107)
+<span class='__dimensions_badge_embed__' data-pmid='28527107' data-style='large_rectangle' style='display: inline-block;'></span>
+- Cheng L\*, Jiang Y\*, Ju H, **`Sun J`**, Peng J, **`Zhou M#`**, Hu Y#. InfAcrOnt: calculating cross-ontology term similarities using information flow by a random walk. _**BMC Genomics**_, 2018, 19(Suppl 1):919.
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/29363423)
+<span class='__dimensions_badge_embed__' data-pmid='29363423' data-style='large_rectangle' style='display: inline-block;'></span>
+- Cheng L\*, Hu Y\*, **`Sun J`**, **`Zhou M#`**, Jiang Q#. DincRNA: a comprehensive web-based bioinformatics toolkit for exploring disease associations and ncRNA function. _**Bioinformatics**_, 2018, 34(11): 1953-1956.
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/29365045)
+<span class='__dimensions_badge_embed__' data-pmid='29365045' data-style='large_rectangle' style='display: inline-block;'></span>
+
+### Before 2017
+- **`Zhou M\*`**, **Zhao H\***, Xu W, **Bao S**, Cheng L#, **`Sun J#`**. Discovery and validation of immune-associated long non-coding RNA biomarkers associated with clinically molecular subtype and prognosis in diffuse large B cell lymphoma. _**Molecular
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/28103885)
+<span class='__dimensions_badge_embed__' data-pmid='28103885' data-style='large_rectangle' style='display: inline-block;'></span>
+- Hu Y\*, **`Zhou M\*`**, Shi H, Ju H, Jiang Q#, Cheng L#. Measuring disease similarity and predicting disease-related ncRNAs by a novel method. _**BMC Medical Genomics**_, 2017, 10(Suppl 5):71.
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/29297338)
+<span class='__dimensions_badge_embed__' data-pmid='29297338' data-style='large_rectangle' style='display: inline-block;'></span>
+- **`Zhou M\*`**, **Zhao H\***, Wang Z\*, Cheng L, Yang L, Shi H, Yang H, **`Sun J#`**. Identification and validation of potential prognostic lncRNA biomarkers for predicting survival in patients with multiple myeloma. _**Journal of Experimental Clinical 
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/26362431)
+<span class='__dimensions_badge_embed__' data-pmid='26362431' data-style='large_rectangle' style='display: inline-block;'></span>
+- **`Zhou M\*`**, Guo M\*, He D\*, Wang X, Cui Y, Yang H, Hao D#, **`Sun J#`**. A potential signature of eight long non-coding RNAs predicts survival in patients with non-small cell lung cancer. _**Journal of Translational Medicine**_, 2015, 13:231.
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/26183581)
+<span class='__dimensions_badge_embed__' data-pmid='26183581' data-style='large_rectangle' style='display: inline-block;'></span>
+- **`Sun J\*`**, Shi H\*, Wang Z, Zhang C, Liu L, Wang L, He W, Hao D#, Liu S#, **`Zhou M#`**. Inferring novel lncRNA-disease associations based on a random walk model of a lncRNA functional similarity network. _**Molecular Biosystems**_, 2014, 10:2074-20
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/24850297)
+<span class='__dimensions_badge_embed__' data-pmid='24850297' data-style='large_rectangle' style='display: inline-block;'></span>
+- Lu J, Wu D, Li C\*, **`Zhou M#`**, Hao D#. Correlation between gene expression and mutator phenotype predicts homologous recombination deficiency and outcome in ovarian cancer. _**Journal of Molecular Medicine (Berlin, Germany)**_, 2014, 92:1159-1168.
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/25062964)
+<span class='__dimensions_badge_embed__' data-pmid='25062964' data-style='large_rectangle' style='display: inline-block;'></span>
+- Hao D\*#, Wang G, Yin Z, Li C, Cui Y, **`Zhou M#`**. Systematic large-scale study of the inheritance mode of Mendelian disorders provides new insight into human diseasome. _**European Journal of Human Genetics**_, 2014, 22:1260-1267.
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/24448549)
+<span class='__dimensions_badge_embed__' data-pmid='24448549' data-style='large_rectangle' style='display: inline-block;'></span>
+- Hao D\*#, Li C, Zhang S, Lu J, Jiang Y, Wang S, **`Zhou M#`**. Network-based analysis of genotype-phenotype correlations between different inheritance modes. _**Bioinformatics**_, 2014, 30:3223-3231.
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/25078399)
+<span class='__dimensions_badge_embed__' data-pmid='25078399' data-style='large_rectangle' style='display: inline-block;'></span>
+- **`Sun J\*`**, Gao B\*, `Zhou M\*`#, Wang ZZ, Zhang F, Deng JE, Li X#. Comparative genomic analysis reveals evolutionary characteristics and patterns of microRNA clusters in vertebrates. _**Gene**_, 2013, 512:383-391.
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/23063939)
+<span class='__dimensions_badge_embed__' data-pmid='23063939' data-style='large_rectangle' style='display: inline-block;'></span>
 
