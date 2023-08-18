@@ -1,11 +1,11 @@
 ---
 title: Meng Zhou
 layout: people
-permalink: /people/zhoumeng
+permalink: /people/zhoumeng.png
 status: Principle Investigator
 pname: Meng Zhou
 position: Principle Investigator
-office: 1239 Siping Road, Shanghai 200092
+office: 
 eml: biofomeng@hotmail.com
 website: https://ZhouSunLab.github.io
 cv: 
