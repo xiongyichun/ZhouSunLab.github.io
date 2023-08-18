@@ -1,100 +1,204 @@
 ---
 layout: news
-title: News & Events
+title: News
 permalink: /news
 ---
 
-# News and Events
+# News
 
 ### 2023
 
+#### August
+- Congratulations to Lu, Meng and Jie contributing a paper about Noninvasive early differential diagnosis and progression monitoring of ovarian cancer using the copy number alterations of plasma cell-free DNA on Transl Res!
+
+#### July
+- Congratulations to Zhenhui, Chenghao and Jianzhong contributing a review about Liquid biopsies for cancer: From bench to clinic on MedComm!
+- Congratulations! Zicheng, Hongyan, Jie and Meng contributed a paper about Deep learning identifies a T-cell exhaustion-dependent transcriptional signature for predicting clinical outcomes and response to immune checkpoint blockade on Oncogenesis.
+- Congratulations! Zicheng and Meng contributed a paper about Multi-dimensional characterization of immunological profiles in small cell lung cancer uncovers clinically relevant immune subtypes with distinct prognoses and therapeutic vulnerabilities on Pharmacological Research. 
+
+#### June
+- Congratulations! Meng, Siqi and Jianzhong contributed a paper about The transcriptional landscape and diagnostic potential of long non-coding RNAs in esophageal squamous cell carcinoma on Nature Communications. 
+- Congratulations to Zijian, Jie and Meng for publishing paper about DeepDrRVO: A GAN-auxiliary two-step masked transformer framework benefits early recognition and differential diagnosis of retinal vascular occlusion from color fundus photographs on Computers in Biology and Medicine!
+- Congratulations! Shilai, Yinghao, Jianzhong contributed a paper about Association of mitochondrial DNA variation with high myopia in a Han Chinese population on Molecular Genetics and Genomics. 
+
 #### May
-- Jiali's collaboration on charting the cervical cancer immune landscapes by scRNA-seq and scTCR-seq is accepted by [The EMBO Journal](https://www.embopress.org/doi/abs/10.15252/embj.2022110757)! 
-- Wang Lab and Gao Lab went on a trip to Xishan Island.
-- Tong Han and Jiali Yue successfully defended their Ph.D. and master thesis, respectively. Congratulations!
+- Congratulations! Jianzhong, Jian, Shilai contributed a paper about Sequencing of 19,219 exomes identifies a low-frequency variant in FKBP5 promoter predisposing to high myopia in a Han Chinese population on Cell Reports.
+- Xinyu, Lijun and Jianzhong contributed an article about Partial erosion on under-methylated regions and chromatin reprogramming contribute to oncogene activation in IDH mutant gliomas on Epigenetics & Chromatin. Congratulations!
+
+#### April
+- Congratulations! Jianzhong&#39;s collaboration paper with Prof. Li about scRNA-seq reveals new subtypes of lens superficial tissue in humans was published on Cell Proliferation.
 
 #### March
-- Our SCREE method for single-cell CRISPR-screen data analysis is accepted by [Briefings in Bioinformatics](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbad123/7095415?utm_source=advanceaccess&utm_campaign=bib&utm_medium=email)!
-- Junjie's paper on identifying key cell types for ICB response in NSCLC neoadjuvant immunotherapy patients using scRNA-seq is published in [Genome Medicine](https://link.springer.com/article/10.1186/s13073-023-01164-9)! 
+- Congratulations! Xinrui and Zhengbo&#39;s review about the roles of non-coding RNAs in eye development and diseases was accepted on WIREs RNA.
 
-#### Feb
-- Wanglab attend the 11th Meeting of Bioinformatics and Systems Biology in Guangzhou, China.
-
-#### Jan
-- Tong's paper on INFG resistance in tumor cells is accepted in [Cancer Immunology Research](https://aacrjournals.org/cancerimmunolres/article-abstract/doi/10.1158/2326-6066.CIR-22-0056/714871/Cancer-Cell-Resistance-to-IFN-Can-Occur-via)! 
+#### February
+- Congratulations! Congcong&#39;s collaboration paper with Prof. Lin about Metabolite Biomarkers for Differential Detection of Macular Edema was accepted on eye and vision.
 
 ### 2022
 
-#### Nov
-- Dongqing won the 16th Academic Pioneer of Tongji University. Congratulations!
+#### November
+- Congratulations! Dandan and Xinyu&#39;s collaboration paper with Prof. Zhang about Mutant NPM1 hijacks transcriptional hub to maintain pathogenic gene programs in acute myeloid leukemia was accepted on Cancer Discovery.
 
-#### Oct
-- Our evaluation paper of CCI tools by integrating single-cell and spatial transcriptomic datasets is published in [Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02783-y).
-- Our updated single-cell data hub for visualizing the tumor microenvironment (TISCH2) is accepted by [Nucleic Acids Research](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac959/6793806?login=false)! Now it has integrated datasets for 6M cells!
-- Our single-cell data hub for investigating the normal tissues of human (HUSCH) is accepted by [Nucleic Acids Research](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac1001/6786201?login=false)!
+#### October
+- Congratulations! Congcong&#39;s collaboration paper with Prof. Ma and Prof. Zheng about clinical role and molecular mechanisms of the SLC12 family in uveal melanoma was accepted on Laboratory Investigation.
 
-#### September
-- The lab welcomes Ph.D. student Qihang and master student Zhonghua!
-- Our SCRIP algorithm on inferring gene regulatory networks from scATAC-seq data is published in [Nucleic Acids Research](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac819/6717821?login=false)!
-
-#### August 
-- Wang lab held the third online Bioinformatics summer training successfully!
-- Chenfei is funded by the National Science Fund for Excellent Young Scholars! Congrats!
+#### July
+- Congratulations! Siqi&#39;s collaboration paper with Prof. Xu about Early non-invasive diagnosis of pre-eclampsia was accepted on BMC Medicine.
+- Congratulations! Zicheng and Lu&#39;s paper about Pan-cancer landscape of T cell exhaustion heterogeneity was accepted on eBioMedicine.
 
 #### June
-- Pengfei successfully defended his master's thesis. Congratulations!
-- Qiu's collaboration of H3K9me3 reprogramming in human early embryos is accepted by [Cell Stem Cell](https://www.sciencedirect.com/science/article/abs/pii/S1934590922002508)!
+- Zhengbo, Yukuan, Zicheng, Congcong, Fangjie, Ji and Fukun graduated! Congratulations and best wishes!
+- Congratulations to Zhengbo, Jian, and Fukun, their paper about genetic relationships and pleiotropic mechanisms of five ocular diseases was accepted on eBioMedicine.
+- Congratulations! Jingting&#39;s paper about Multi-omics deep learning model for rationalized hypoxia-targeted therapy in UVM was accepted on Computational and Structural Biotechnology Journal.
+
+#### April
+- Congratulations! Congcong &#39;s paper about Computational inference of susceptibility genes in UVM was accepted on npj Systems Biology and Applications.
+- Congratulations! Congcong and Ke Li&#39;s paper about A macrophage activation paradigm of ovarian cancer was accepted on Journal of advanced research.
+- Congratulations! Zicheng&#39;s collaboration paper with Prof. Wang about Adjuvant Chemotherapy for Gastric Cancer was accepted on Journal of Gastric Cancer！
 
 #### February
-- Our STRIDE paper for spatial transcriptomics deconvolution analyses is accepted by [Nucleic Acids Research](https://academic.oup.com/nar/article/50/7/e42/6543547)!
-- Chenfei's collaboration of nucleosome establishment and remodeling in mouse pronucleus is accepted by [Cell Research](https://www.nature.com/articles/s41422-022-00652-8)!
+- Congratulations! Yukuan and Hengqiang&#39;s collaboration paper with Prof. Wu about Identifying Hereditary Breast Cancer through Deep Learning was accepted on Genome Medicine！
+
+#### January
+- Congratulations! Xinyu&#39;s collaboration paper with Prof. Lin about DNA methylation diagnostic and prognostic markers for esophageal squamous-cell carcinoma was accepted on Signal Transduction and Targeted Therapy.
+- Yunlong, Fei, Chunyu, Jingjing and Yukuan contributed a paper about integrating scRNA-seq with GWAS to discover genetics-influenced CD16+ monocytes and memory CD8+T cells involved in severe COVID-19 on Genome Medicine. Congratulations!
+- Congratulations! Lu&#39;s collaboration paper with Prof. Shen about Transcriptional landscape of circulating platelets from patients with COVID-19 was accepted on Cell & Bioscience.
 
 ### 2021
 
 #### December
-- Wang lab held the New Year's Eve party. Nice to meet you, 2022!
+- Merry Christmas and Happy New Year 2022!
+- Congratulations! Ke, Congcong and Chenghao&#39;s paper about Computational elucidation of spatial gene expression variation from spatially resolved transcriptomics data was accepted on Molecular Therapy - Nucleic Acids.
+
+#### November
+- Congratulations! Jie, Congcong&#39;s collaboration paper with Prof. Hao about Immuno-genomic characterization of  high-grade serous ovarian cancer was accepted on British Journal of Cancer.
 
 #### October
-- Tong, Dongqing, Ya, Xin, Pengfei, and Chenfei attend the 10th Meeting of Bioinformatics and Systems Biology in Chengdu.
-- Dongqing won the first prize for best poster at the 10th Meeting of Bioinformatics and Systems Biology. Good job Dongqing!
+- Meng, Ping, Congcong, Jianzhong and Jie contributed a paper about Cell-free DNA 5-hydroxymethylcytosine of lncRNA as biomark for cancer on Clinical Epigenetics. Congratulations!
+- Congratulations! Prof. Zhou&#39;s collaboration paper with Prof. Åsa Wheelock about Multiomics integration-based molecular characteristics of COVID-19  was accepted on Briefings in Bioinformatics
+- Congratulations! Zicheng&#39;s collaboration paper about clinical five-risk factor panel for acute anterior uveitis recurrence was accepted on Translational Vision Science & Technology &#40;TVST&#41;.
+- Congratulations! Siqi and Ke&#39;s paper about Deep learning in single-cell RNA-sequencing data analysis was accepted on Briefings in Bioinformatics.
+- Congratulations! Ping and Congcong&#39;s paper about Cell-free 5hmC profiles of lncRNAs in cancer detection and progression monitoring was accepted on Clinical Epigenetics.
 
 #### September
-- The lab welcomes Ph.D. students Zhaoyang and Yuting, master student Yunfan and visiting student Zhiguang!
-- Wang lab visited Shanghai Astronomy Museum.
+- Congratulations. Chunyu and Jianzhong&#39;s collaboration paper about genetic source tracking of human urinary exosomes was accepted on PNAS.
+- Congratulations to Wei and Jianzhong for paper about non-classically secreted proteins in Gram-positive bacteria accepted by Nucleic Acids Research.
+- Congratulations! Yunlong, Jian and Jianzhong contributed a paper about whole city-million scale children and adolescents myopia survey &#40;CAMS&#41; in Wenzhou on Eye and Vision.
 
-#### August
-- Wang lab held the second online Bioinformatics summer training successfully!
+#### July
+- Congratulations! Jian, Qi, Dandan and Jianzhong&#39;s work about loss of H3K27me3 in ESCC activate transcription was accepted on npj Genomic Medicine.
+- Congratulations to Jianzhong for collaborative publication about de novo protein structure prediction in Bioinformatics.
 
 #### June
-- Wang lab visited the 10th China Flower Expo held in Chongming Shanghai!
+- Congratulations! Dandan&#39;s collaboration paper with Prof. Qiao about ESCC oncogenic enhancers was accepted in Nature Communications.
+- Congratulations! Zicheng&#39;s collaboration paper with Prof. Zheng about  Crosstalk between epithelial-mesenchymal transition and immune evasion was accepted in npj  Precision Oncology.
+- Jian, Fukun, Dandan and Jiangzhong contributed EyeDiseases database on NAR Genomics and Bioinformatics. Cheers!
 
 #### May
-- Sailing Shi and Jun Ge successfully defended their Ph.D. and master thesis, respectively. Congratulations!
+- Congratulations! Zicheng&#39;s collaboration paper with Dr. Wang about Adjuvant Chemotherapy Efficacy Comparison of SOX and XELOX in Stage II-III GC Patients  was published in Frontiers in Oncology.
+- Congratulations! Siqi&#39;s collaboration paper with CHCAMS about Circulating exo-miRNA inhibits breast cancer LNM was accepted in Molecular Oncology.
+- Congratulations! Zicheng&#39;s paper about Pan-cancer lncRNA modifiers of immune microenvironment was accepted in npj Genomic Medicine.
+- Dandan, Siqi, Qi, Yaru and Ping successfully defended their MS theses. Congratulations!
+- Yunlong, Yukuan and Jianzhong&#39;s paper about genomic susceptibility locus of COVID-19 was published on Human Molecular Genetics. Congratulations!
 
-#### March
-- Jin Wang successfully defended her Ph.D. thesis. Congratulations Dr. Wang!
+#### April
+- Congratulations! Yunlong, jian, Yaru and Jianzhong&#39;s paper titled "COVID-19 quarantine reveals behavioral changes effect on myopia progression" was accepted on Ophthalmology.\
+- Congratulations to Jian on his new baby girl. Cheers!
+
+#### February
+- Hengqiang, Yukuan and Jianzhong contributed an article in Molecular Cancer. Congratulations!
+- Happy spring festival! Bless for 2021!
+
+#### January
+- Congratulations to Yuanjian and Jianzhong for contributing a collaboration paper on The American Journal of Human Genetics. Cheers!
+- Congratulations! Jianzhong&#39;s collaboration paper with Li Lab is online at Nature Communications.
+- Siqi&#39;s collaboration paper about an EV-derived GI-associated miRNA signature in breast cancer is online at Journal of Nanobiotechnology! Congratulations!
+- Yunlong had a baby girl. Congratulations!
+- Congratulations! Ping, Siqi and Dandan&#39;s work about DNA methylation signature in uveal melanoma was accepted in Briefings in Bioinformatics.
+- Congratulations! Siqi’s collaboration paper about an EV-derived GI-associated miRNA signature in breast cancer with Chen Lab and Wu Lab was accepted in Journal of Nanobiotechnology.
 
 ### 2020
 
 #### December
-- Wang lab held the New Year's Eve party. Welcome, 2021!
-- Wang lab went on a day trip to Shanghai Wild Animal Park.
+- Merry Christmas & Happy New Year!
 
 #### November
-- Wang lab celebrated Thanksgiving Day together!
-- Our TISCH paper is published on [Nucleic Acids Research](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaa1020/5976978)!
+- Congratulations! Yan, Fulong and Yaru&#39;s collaboration paper about single cell RNA-seq reveals cancerous origin with Jin Lab was accepted in PNAS.
 
 #### October
-- Wang lab held a team building at Chongming Island.
-- Chenfei had his first baby boy. Congrats!
+- Congratulations! Jianzhong Collaboration&#39;s paper about Discovery of Oncogenes and Tumor Suppressor Genes was published in Science Advance.
+- Su Lab had a wonderful day in Dongtou district.
+- Congratulations！ Yaru and Yunlong&#39;s work for pathway activity transformation of single-cell RNA-seq data was accepted in Computational and Structural Biotechnology Journal.
 
 #### September
-- The lab welcomes Ph.D. students Hailin Wei and Yihan Xiao, and research assistant Tao Chen!
-
-#### August
-- Wang lab held the first online Bioinformatics summer training successfully!
-- Our MAESTRO paper for integrative analysis of scRNA-seq and scATAC-seq is published on [Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02116-x)!
+- Congratulations! Jian Yuan and Dan Dan&#39;s work about cricial mitochondrial genes in cornea affected by COVID-19 was accepted in IOVS.
+- Congratulations! Jianzhong Collaboration&#39;s paper about Discovery of Oncogenes and Tumor Suppressor Genes was accepted in Science Advance.
 
 #### July
-- Tumor scRNA-seq database TISCH is online now. Check out [TISCH](http://tisch.comp-genomics.org/) for uniformly processed and annotated tumor data of > 2M cells! 
-- Chenfei Wang starts his lab at Tongji University.
+- Congratulations! Congcong&#39;s paper about Computational methods and applications of disease lncRNAs was published to Molecular Therapy-Nucleic Acids.
+- Congratulations! Jianzhong's collaboration paper with Li Lab was accepted in Nature Communications.
+
+#### June
+- Congratulations! Yan and Yaru's paper of single-cell pathways annotation tool was accepted in Bioinformatics.
+
+#### March
+- Congratulations! Xinyu's collaboration paper with Zhang Lab was published in Blood.
+- Zicheng and Hengqiang's collaboration paper with Jin Lab was published to Molecular Therapy-Nucleic Acids.
+
+#### February
+- Congratulations! Yan, Zhengbo and Fangjie's ncRNAomics knowledgebase paper was accepted in Front Cell Dev Biol.
+- Congratulations! Jie, Zicheng and Siqi's tumor immune infiltration-associated lncRNAs in NSCLC paper was published in Journal for ImmunoTherapy of Cancer.
+
+#### January
+- Congratulations! Long, Kai and Quan's Cell-free epigenome atlas in human diseases paper was published in Nucleic Acids Research
+- Happy New Year 2020！
+- Congratulations! Meng, Zicheng and Siqi's lncRNA signature of tumor-infiltrating B lymphocytes paper was accepted in Briefings in Bioinformatics
+- Congratulations! Zicheng's computational advances in decoding immune contexture paper was accepted in Briefings in Bioinformatics
+- Congratulations! Hengqiang's patient-level framework for precision medicine paper was accepted in Briefings in Bioinformatics
+
+### 2019
+
+#### November
+- Congratulations! Jian's molecular signatures in devastating endophthalmitis paper was accepted in mSystems
+
+#### August
+- Congratulations! Yan and Long's circRNA in Alzheimer's disease paper was accepted in Frontiers in Bioengineering and Biotechnology
+- Congratulations! Siqi's lncRNA signatures of genome instability paper was accepted in Briefings in Bioinformatics.
+
+#### July
+- Congratulations! Jie and Siqi's Individualized gene signature in chemotherapy paper was accepted in Cell Death & Disease.
+
+#### June
+- The lab welcomes new graduates: Zicheng Zhang, Ji Zhang, Yukuan Huang, Congcong Yan and Fukun Cheng
+
+#### May
+- Celebrating the Success of International Forum of Genetics and Epigenetics in Precision Medicine, IFGE2019, and the Unveiling of the Biomedical Big Data Institute.
+- Congratulations! Jie, Qiang and Ting's function-derived personalized multi-gene signature of outcome in colorectal cancer paper was accepted in JOURNAL OF CELLULAR AND MOLECULAR MEDICINE
+
+### 2018
+
+#### December
+- Merry Christmas！
+
+#### November
+- Congratulations! Dr Su's grant application of outstanding youth has been funded by Zhejiang natural fund committee.
+
+#### August
+- Congratulations! Dr. Zhou's grant application has been funded by NSFC.
+- Congratulations! Dr. Su's grant application has been funded by NSFC.
+- Congratulations! Jianzhong's Pan-Cancer DNA Hypermethylation and homeobox oncogenes paper was published in Genome Biology
+
+#### July
+- Congratulations! Jianzhong's Pan-Cancer DNA Hypermethylation and homeobox oncogenes paper was accepted in Genome Biology
+
+#### June
+- Congratulations! Meng and Hu's lncRNA signature in colon cancer recurrence paper was accepted in Molecular Therapy-Nucleic Acids.
+
+#### May
+- The lab welcomes new graduates: Dandan Fan, Siqi Bao, Qi Jiang, Yaru Zhang and Ping Hou
+- Our team at the 2018 Forum for Genetics and Epigenetics of Skeletal Associated Disorders meeting, Beijing, China
+- Congratulations! Meng and Qiang's lncRNA and Alzheimer's disease paper was accepted and is online in Briefings in Bioinformatics
+
+#### April
+- Professor Su was invited to the The International Consortium for Spinal Genetics, Development and Disease Conference
+
