@@ -1,7 +1,7 @@
 ---
 title: Meng Zhou
 layout: people
-permalink: /people/zhoumeng.png
+permalink: people/zhoumeng.png
 status: Principle Investigator
 pname: Meng Zhou
 position: Principle Investigator
