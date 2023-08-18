@@ -20,7 +20,7 @@ Please visit [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&u
 - Yang L\*, **Zhang Z\***, Dong J, **Zhang Y**, **Yang Z**, Guo Y, Sun X, Li J, Xing P#, Ying J#, **`Zhou M#`**. Multi-dimensional characterization of immunological profiles in small cell lung cancer uncovers clinically relevant immune subtypes with disti
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/37392900)
 <span class='__dimensions_badge_embed__' data-pmid='37392900' data-style='large_rectangle' style='display: inline-block;'></span>
-- **`Zhou M\*`**, **Bao S\***, Gong T\*, Wang Q\*, **`Sun J`**, Li J, Lu M, Sun W, **Su J#**, Chen H# & Liu Z#. The transcriptional landscape and diagnostic potential of long non-coding RNAs in esophageal squamous cell carcinoma. _**Nature Communications*
+- **`Zhou M*`**, **Bao S\***, Gong T\*, Wang Q\*, **`Sun J`**, Li J, Lu M, Sun W, **Su J#**, Chen H# & Liu Z#. The transcriptional landscape and diagnostic potential of long non-coding RNAs in esophageal squamous cell carcinoma. _**Nature Communications*
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/37365153)
 <span class='__dimensions_badge_embed__' data-pmid='37365153' data-style='large_rectangle' style='display: inline-block;'></span>
 - **Yang Z**, **Zhang Y**, **Xu K**, **`Sun J#`**, Wu Y#, **`Zhou M#`**. DeepDrRVO: A GAN-auxiliary two-step masked transformer framework benefits early recognition and differential diagnosis of retinal vascular occlusion from color fundus photographs. _*
@@ -64,7 +64,7 @@ Please visit [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&u
 - Ji W\*, **Chen L\***, Yang W\*, **Li K**, **Zhao J**, **Yan C**, You C, Jiang M, **`Zhou M#`** & **Shen X#**. Transcriptional landscape of circulating platelets from patients with COVID-19 reveals key subnetworks and regulators underlying SARS-CoV-2 inf
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/35139909)
 <span class='__dimensions_badge_embed__' data-pmid='35139909' data-style='large_rectangle' style='display: inline-block;'></span>
-- **`Sun J\*`**, **Yan C\***, Xu D\*, **Zhang Z**, **Li K**, Li X, **`Zhou M#`** & Hao D#. Immuno-genomic characterisation of high-grade serous ovarian cancer reveals immune evasion mechanisms and identifies an immunological subtype with a favourable prog
+- **`Sun J*`**, **Yan C\***, Xu D\*, **Zhang Z**, **Li K**, Li X, **`Zhou M#`** & Hao D#. Immuno-genomic characterisation of high-grade serous ovarian cancer reveals immune evasion mechanisms and identifies an immunological subtype with a favourable prog
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/35017656)
 <span class='__dimensions_badge_embed__' data-pmid='35017656' data-style='large_rectangle' style='display: inline-block;'></span>
 
@@ -78,7 +78,7 @@ Please visit [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&u
 - Ji X\*, **Zhang Z\***, Lin D, Dai M, Zhao X, Guo X, Du J, **`Zhou M#`**, WangY#. A novel clinical five-risk factor panel for individualized recurrence risk assessment of patients with acute anterior uveitis. _**Transl Vis Sci Technol**_, 2021,10(13):29.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/34817576)
 <span class='__dimensions_badge_embed__' data-pmid='34817576' data-style='large_rectangle' style='display: inline-block;'></span>
-- **`Zhou M\*`**, **Hou P\***, **Yan C\***, **Chen L**, **Li K**, **Wang Y**, **Zhao J**, **Su J#** & **`Sun J#`**. Cell-free DNA 5-hydroxymethylcytosine profiles of long non-coding RNA genes enable early detection and progression monitoring of human canc
+- **`Zhou M*`**, **Hou P\***, **Yan C\***, **Chen L**, **Li K**, **Wang Y**, **Zhao J**, **Su J#** & **`Sun J#`**. Cell-free DNA 5-hydroxymethylcytosine profiles of long non-coding RNA genes enable early detection and progression monitoring of human canc
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/34689838)
 <span class='__dimensions_badge_embed__' data-pmid='34689838' data-style='large_rectangle' style='display: inline-block;'></span>
 - Xu L\*, Zhuang Y\*, Zhang G\*, **Ma Y\***, **Yuan J\***, Tu C, Li MM, Wang W, **Zhang Y**, Lu X, Li J, Liu X, **Xue Z**, **`Zhou M`**, **`Sun J`**, Bao J, Li M, Lu F#, Wang H#, **Su J#**, Qu J#. Design, methodology, and baseline of whole city-million sc
@@ -116,10 +116,10 @@ Please visit [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&u
 - **Yu F\***, **Li K\***, **Li S\***, **Liu J**, **Zhang Y**, **`Zhou M`**, **Zhao H**, Chen H, Wu N, Liu Z#, **Su J#**. CFEA: a cell-free epigenome atlas in human diseases. _**Nucleic acids research**_, 2020, 48(D1): D40-D44.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31428785)
 <span class='__dimensions_badge_embed__' data-pmid='31428785' data-style='large_rectangle' style='display: inline-block;'></span>
-- **`Sun J\*`**, **Zhang Z\***, **Bao S\***, **Yan C**, **Hou P**, Wu N, **Su J**, Xu L#, **`Zhou M#`**. Identification of tumor immune infiltration-associated lncRNAs for improving prognosis and immunotherapy response of patients with non-small cell lung
+- **`Sun J*`**, **Zhang Z\***, **Bao S\***, **Yan C**, **Hou P**, Wu N, **Su J**, Xu L#, **`Zhou M#`**. Identification of tumor immune infiltration-associated lncRNAs for improving prognosis and immunotherapy response of patients with non-small cell lung
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32041817)
 <span class='__dimensions_badge_embed__' data-pmid='32041817' data-style='large_rectangle' style='display: inline-block;'></span>
-- **`Zhou M\*`**，**Zhang Z\***, **Bao S\***, **Hou P**, **Yan C**, **Su J#**, **`Sun J#`**. Computational recognition of lncRNA signature of tumor-infiltrating B lymphocytes with potential implications in prognosis and immunotherapy of bladder cancer. _**
+- **`Zhou M*`**，**Zhang Z\***, **Bao S\***, **Hou P**, **Yan C**, **Su J#**, **`Sun J#`**. Computational recognition of lncRNA signature of tumor-infiltrating B lymphocytes with potential implications in prognosis and immunotherapy of bladder cancer. _**
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32382761)
 <span class='__dimensions_badge_embed__' data-pmid='32382761' data-style='large_rectangle' style='display: inline-block;'></span>
 - **Zhao H\***, Gu S\*, **Bao S**, **Yan C**, Zhang Z, **Hou P**, **`Zhou M#`**，**`Sun J#`**. Mechanistically-derived patient-level framework for precision medicine identifies a personalized immune prognostic signature in high-grade serous ovarian cancer.
@@ -130,10 +130,10 @@ Please visit [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&u
 <span class='__dimensions_badge_embed__' data-pmid='32496512' data-style='large_rectangle' style='display: inline-block;'></span>
 
 ### 2019
-- **`Zhou M\*`**, **Zhao H\***, **Wang X**, **`Sun J#`**, **Su J#**. Analysis of long noncoding RNAs highlights region-specific altered expression patterns and diagnostic roles in Alzheimer&#39;s disease. _**Briefings in Bioinformatics**_, 2019, 20(2): 59
+- **`Zhou M*`**, **Zhao H\***, **Wang X**, **`Sun J#`**, **Su J#**. Analysis of long noncoding RNAs highlights region-specific altered expression patterns and diagnostic roles in Alzheimer&#39;s disease. _**Briefings in Bioinformatics**_, 2019, 20(2): 59
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/29672663)
 <span class='__dimensions_badge_embed__' data-pmid='29672663' data-style='large_rectangle' style='display: inline-block;'></span>
-- **`Sun J\*`**, **Bao S**, Xu D, **Zhang Y**, **Su J**, Liu J, Hao D#, **`Zhou M#`**. Large-scale integrated analysis of ovarian cancer tumors and cell lines identifies an individualized gene expression signature for predicting response to platinum-based
+- **`Sun J*`**, **Bao S**, Xu D, **Zhang Y**, **Su J**, Liu J, Hao D#, **`Zhou M#`**. Large-scale integrated analysis of ovarian cancer tumors and cell lines identifies an individualized gene expression signature for predicting response to platinum-based
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31506427)
 <span class='__dimensions_badge_embed__' data-pmid='31506427' data-style='large_rectangle' style='display: inline-block;'></span>
 - **Bao S\***, **Zhao H**, **Yuan J**, **Fan D**, **Zhang Z**, **Su J#**, **`Zhou M#`**. Computational identification of mutator-derived lncRNA signatures of genome instability for improving the clinical outcome of cancers: a case study in breast cancer. 
@@ -141,10 +141,10 @@ Please visit [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&u
 <span class='__dimensions_badge_embed__' data-pmid='31665214' data-style='large_rectangle' style='display: inline-block;'></span>
 
 ### 2018
-- **`Zhou M\*`**, **Zhang Z\***, **Zhao H**, **Bao S**, **`Sun J#`**. A novel lncRNA-focus expression signature for survival prediction in endometrial carcinoma. _**BMC Cancer**_, 2018, 18(1):39.
+- **`Zhou M*`**, **Zhang Z\***, **Zhao H**, **Bao S**, **`Sun J#`**. A novel lncRNA-focus expression signature for survival prediction in endometrial carcinoma. _**BMC Cancer**_, 2018, 18(1):39.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/29304762)
 <span class='__dimensions_badge_embed__' data-pmid='29304762' data-style='large_rectangle' style='display: inline-block;'></span>
-- **`Zhou M\*`**, **Zhang Z\***, **Zhao H**, **Bao S**, Cheng L, **`Sun J#`**. An Immune-Related Six-lncRNA Signature to Improve Prognosis Prediction of Glioblastoma Multiforme. _**Molecular Neurobiology**_, 2018, 55(5):3684-3697.
+- **`Zhou M*`**, **Zhang Z\***, **Zhao H**, **Bao S**, Cheng L, **`Sun J#`**. An Immune-Related Six-lncRNA Signature to Improve Prognosis Prediction of Glioblastoma Multiforme. _**Molecular Neurobiology**_, 2018, 55(5):3684-3697.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/28527107)
 <span class='__dimensions_badge_embed__' data-pmid='28527107' data-style='large_rectangle' style='display: inline-block;'></span>
 - Cheng L\*, Jiang Y\*, Ju H, **`Sun J`**, Peng J, **`Zhou M#`**, Hu Y#. InfAcrOnt: calculating cross-ontology term similarities using information flow by a random walk. _**BMC Genomics**_, 2018, 19(Suppl 1):919.
@@ -155,19 +155,19 @@ Please visit [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&u
 <span class='__dimensions_badge_embed__' data-pmid='29365045' data-style='large_rectangle' style='display: inline-block;'></span>
 
 ### Before 2017
-- **`Zhou M\*`**, **Zhao H\***, Xu W, **Bao S**, Cheng L#, **`Sun J#`**. Discovery and validation of immune-associated long non-coding RNA biomarkers associated with clinically molecular subtype and prognosis in diffuse large B cell lymphoma. _**Molecular
+- **`Zhou M*`**, **Zhao H\***, Xu W, **Bao S**, Cheng L#, **`Sun J#`**. Discovery and validation of immune-associated long non-coding RNA biomarkers associated with clinically molecular subtype and prognosis in diffuse large B cell lymphoma. _**Molecular
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/28103885)
 <span class='__dimensions_badge_embed__' data-pmid='28103885' data-style='large_rectangle' style='display: inline-block;'></span>
-- Hu Y\*, **`Zhou M\*`**, Shi H, Ju H, Jiang Q#, Cheng L#. Measuring disease similarity and predicting disease-related ncRNAs by a novel method. _**BMC Medical Genomics**_, 2017, 10(Suppl 5):71.
+- Hu Y\*, **`Zhou M*`**, Shi H, Ju H, Jiang Q#, Cheng L#. Measuring disease similarity and predicting disease-related ncRNAs by a novel method. _**BMC Medical Genomics**_, 2017, 10(Suppl 5):71.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/29297338)
 <span class='__dimensions_badge_embed__' data-pmid='29297338' data-style='large_rectangle' style='display: inline-block;'></span>
-- **`Zhou M\*`**, **Zhao H\***, Wang Z\*, Cheng L, Yang L, Shi H, Yang H, **`Sun J#`**. Identification and validation of potential prognostic lncRNA biomarkers for predicting survival in patients with multiple myeloma. _**Journal of Experimental Clinical 
+- **`Zhou M*`**, **Zhao H\***, Wang Z\*, Cheng L, Yang L, Shi H, Yang H, **`Sun J#`**. Identification and validation of potential prognostic lncRNA biomarkers for predicting survival in patients with multiple myeloma. _**Journal of Experimental Clinical 
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/26362431)
 <span class='__dimensions_badge_embed__' data-pmid='26362431' data-style='large_rectangle' style='display: inline-block;'></span>
-- **`Zhou M\*`**, Guo M\*, He D\*, Wang X, Cui Y, Yang H, Hao D#, **`Sun J#`**. A potential signature of eight long non-coding RNAs predicts survival in patients with non-small cell lung cancer. _**Journal of Translational Medicine**_, 2015, 13:231.
+- **`Zhou M*`**, Guo M\*, He D\*, Wang X, Cui Y, Yang H, Hao D#, **`Sun J#`**. A potential signature of eight long non-coding RNAs predicts survival in patients with non-small cell lung cancer. _**Journal of Translational Medicine**_, 2015, 13:231.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/26183581)
 <span class='__dimensions_badge_embed__' data-pmid='26183581' data-style='large_rectangle' style='display: inline-block;'></span>
-- **`Sun J\*`**, Shi H\*, Wang Z, Zhang C, Liu L, Wang L, He W, Hao D#, Liu S#, **`Zhou M#`**. Inferring novel lncRNA-disease associations based on a random walk model of a lncRNA functional similarity network. _**Molecular Biosystems**_, 2014, 10:2074-20
+- **`Sun J*`**, Shi H\*, Wang Z, Zhang C, Liu L, Wang L, He W, Hao D#, Liu S#, **`Zhou M#`**. Inferring novel lncRNA-disease associations based on a random walk model of a lncRNA functional similarity network. _**Molecular Biosystems**_, 2014, 10:2074-20
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/24850297)
 <span class='__dimensions_badge_embed__' data-pmid='24850297' data-style='large_rectangle' style='display: inline-block;'></span>
 - Lu J, Wu D, Li C\*, **`Zhou M#`**, Hao D#. Correlation between gene expression and mutator phenotype predicts homologous recombination deficiency and outcome in ovarian cancer. _**Journal of Molecular Medicine (Berlin, Germany)**_, 2014, 92:1159-1168.
@@ -179,7 +179,7 @@ Please visit [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&u
 - Hao D\*#, Li C, Zhang S, Lu J, Jiang Y, Wang S, **`Zhou M#`**. Network-based analysis of genotype-phenotype correlations between different inheritance modes. _**Bioinformatics**_, 2014, 30:3223-3231.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/25078399)
 <span class='__dimensions_badge_embed__' data-pmid='25078399' data-style='large_rectangle' style='display: inline-block;'></span>
-- **`Sun J\*`**, Gao B\*, `Zhou M\*`#, Wang ZZ, Zhang F, Deng JE, Li X#. Comparative genomic analysis reveals evolutionary characteristics and patterns of microRNA clusters in vertebrates. _**Gene**_, 2013, 512:383-391.
+- **`Sun J*`**, Gao B\*, `Zhou M*`#, Wang ZZ, Zhang F, Deng JE, Li X#. Comparative genomic analysis reveals evolutionary characteristics and patterns of microRNA clusters in vertebrates. _**Gene**_, 2013, 512:383-391.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/23063939)
 <span class='__dimensions_badge_embed__' data-pmid='23063939' data-style='large_rectangle' style='display: inline-block;'></span>
 
