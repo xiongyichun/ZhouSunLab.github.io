@@ -1,16 +1,20 @@
 ---
 layout: news
 title: Publications
-subtitle: Publications in Wang Lab
+subtitle: Publications in ZhouSun Lab
 permalink: /publications
 ---
 
 # Publications
 
-Please visit [Google Scholar](https://scholar.google.com/citations?user=ZwKmcpYAAAAJ&hl=en) for more details.<br>
-\# Co-first authors; \* Co-corresponding authors
+Please visit [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=O5RxsC8AAAAJ) for more details.<br>
+\* Co-first authors; \# Co-corresponding authors
 
 ### 2023
+- **Chen L\***, Ma R\*, Luo C\*, Xie Q\*, Ning X, Sun K, Meng F#, **Zhou M#**, **Sun J#**. Noninvasive early differential diagnosis and progression monitoring of ovarian cancer using the copy number alterations of plasma cell-free DNA. _**Translational Ressearch**_, 2023, S1931-5244&#40;23&#41;00126-3.
+**Zhang Z\***, **Chen H\***, **Yan D**, **Chen L**, **Sun J#** & **Zhou M#**. Deep learning identifies a T-cell exhaustion-dependent transcriptional signature for predicting clinical outcomes and response to immune checkpoint blockade. _**Oncogenesis**_, 2023, 12&#40;1&#41;:37.
+- Yang L\*, **Zhang Z\***, Dong J, **Zhang Y**, **Yang Z**, Guo Y, Sun X, Li J, Xing P#, Ying J#, **Zhou M#**. Multi-dimensional characterization of immunological profiles in small cell lung cancer uncovers clinically relevant immune subtypes with distinct prognoses and therapeutic vulnerabilities. _**Pharmacological Research**_, 2023, 194:106844.
+- **Zhou M\***, **Bao S\***, Gong T\*, Wang Q\*, **Sun J**, Li J, Lu M, Sun W, **Su J#**, Chen H# & Liu Z#. The transcriptional landscape and diagnostic potential of long non-coding RNAs in esophageal squamous cell carcinoma. _**Nature Communications**_, 2023, 14&#40;1&#41;:3799.
 - **Han T#**, Wang X#, Shi S, Zhang W, Wang J, **Wu Q**, Li Z, Fu J, Zheng R, Zhang J, Tang Q, Zhang P\*, **Wang C\***. Cancer Cell Resistance to IFNγ Can Occur via Enhanced Double-Strand Break Repair Pathway Activity. _**Cancer Immunol Res.**_ 2023 11(3):381–398.<br>
 [[Abstract]](https://aacrjournals.org/cancerimmunolres/article-abstract/doi/10.1158/2326-6066.CIR-22-0056/716422/Cancer-Cell-Resistance-to-IFN-Can-Occur-via)
 [[Full Paper]](/resources/publications/2023_CIR_INFG.pdf)
