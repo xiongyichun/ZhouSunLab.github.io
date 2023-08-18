@@ -5,12 +5,9 @@ permalink: /positions
 ---
 
 # Positions
-Meng Zhou, Ph.D.
-
-Eye Hospital, Wenzhou Medical University
-
-Zhejiang Eye Hospital
-
+Meng Zhou, Ph.D.<br/>
+Eye Hospital, Wenzhou Medical University<br/>
+Zhejiang Eye Hospital<br/>
 Email: biofomeng@hotmail.com
 
 ### Bioinformatics Research Assistant
