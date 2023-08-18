@@ -16,6 +16,6 @@ permalink: /software/
 - [**SCREE**](https://github.com/wanglabtongji/SCREE/) &nbsp;
 (Single-cell CRISPR screen data analysEs and perturbation modEling) is a workflow to perform quality control and analyses of multimodal single-cell CRISPR screen datasets.
 
-#### AI Medical Imaging
+#### Multimodal Medical Imaging Analysis by AI
 - On the way
 

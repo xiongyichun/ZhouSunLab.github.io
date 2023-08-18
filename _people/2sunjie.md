@@ -1,7 +1,7 @@
 ---
 title: Jie Sun
 layout: people
-permalink: /people/sunjie.png
+permalink: /people/sunjie.jpg
 status: Principle Investigator
 pname: Jie Sun
 position: Principle Investigator
