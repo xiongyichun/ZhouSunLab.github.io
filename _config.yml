@@ -1,24 +1,24 @@
 # --- Basic options --- #
 
 # Name of website
-title: ZhouSun Lab
+title: Wang Lab
 
 # Short description of your site
-description: Zhou Group in Computational Precision Health (CPH¡ðZlab)
+description: Chenfei Wang Lab at Tongji University
 
 # Your name to show in the footer
-author: ZhouSun Lab
+author: Chenfei Wang Lab
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   Home: "/"
-  Publications: "publications"
+  News & Events: "news"
   People: "people"
+  Publications: "publications"
   Software: "software"
-  News: "news"
-  Gallery: "photo"
   Positions: "positions"
+  Memories: "photo"
 
 # --- Logo --- #
 
@@ -40,12 +40,10 @@ navbar-links:
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: biofomeng@hotmail.com
-  github: ZhouSunLab
-#  google-scholar: Meng Zhou
-
-#  twitter: wang_chenfei
-#  rss: false
+  email: 08chenfeiwang@tongji.edu.cn
+  github: chenfeiwang
+  twitter: wang_chenfei
+  rss: false
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -92,9 +90,9 @@ excerpt_length: 50
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
+navbar-col: "#314f96"
+navbar-text-col: "#fafafa"
+navbar-border-col: "#294481"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
