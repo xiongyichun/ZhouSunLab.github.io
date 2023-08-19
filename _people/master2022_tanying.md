@@ -1,7 +1,7 @@
 ---
 title: Ying Tan
 layout: people
-permalink: /people/2022Master_tanying.jpg
+permalink: /people/master2022_tanying.jpg
 status: Student
 pname: Ying Tan
 position: Master student

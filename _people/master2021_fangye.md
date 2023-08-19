@@ -1,7 +1,7 @@
 ---
 title: Ye Fang
 layout: people
-permalink: /people/2021Master_fangye.jpg
+permalink: /people/master2021_fangye.jpg
 status: Student
 pname: Ye Fang
 position: Master student

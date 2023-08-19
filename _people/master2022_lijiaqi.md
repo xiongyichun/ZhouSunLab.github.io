@@ -1,7 +1,7 @@
 ---
 title: Jiaqi Li
 layout: people
-permalink: /people/2022Master_lijiaqi.jpg
+permalink: /people/master2022_lijiaqi.jpg
 status: Student
 pname: Jiaqi Li
 position: Master student

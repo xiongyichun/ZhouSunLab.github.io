@@ -1,7 +1,7 @@
 ---
 title: Wang Jin
 layout: people
-permalink: /people/2022Master_jinwang.jpg
+permalink: /people/master2022_jinwang.jpg
 status: Student
 pname: Wang Jin
 position: Master student

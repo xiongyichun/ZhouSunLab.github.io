@@ -1,7 +1,7 @@
 ---
 title: Yibo Zhang
 layout: people
-permalink: /people/2021Master_zhangyibo.jpg
+permalink: /people/master2021_zhangyibo.jpg
 status: Student
 pname: Yibo Zhang
 position: Master student

@@ -1,7 +1,7 @@
 ---
 title: Liujin Zhang
 layout: people
-permalink: /people/2022Master_zhangliujin.jpg
+permalink: /people/master2022_zhangliujin.jpg
 status: Student
 pname: Liujin Zhang
 position: Master student

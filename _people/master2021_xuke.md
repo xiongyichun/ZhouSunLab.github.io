@@ -1,7 +1,7 @@
 ---
 title: Ke Xu
 layout: people
-permalink: /people/2021Master_xueke.jpg
+permalink: /people/master2021_xueke.jpg
 status: Student
 pname: Xu Ke
 position: Master student

@@ -1,7 +1,7 @@
 ---
 title: Modi Zhai
 layout: people
-permalink: /people/2022Master_zhaimodi.jpg
+permalink: /people/master2022_zhaimodi.jpg
 status: Student
 pname: Modi Zhai
 position: Master student

@@ -1,7 +1,7 @@
 ---
 title: Dongxue Yan
 layout: people
-permalink: /people/2021Master_yandongxue.jpg
+permalink: /people/master2021_yandongxue.jpg
 status: Student
 pname: Dongxue Yan
 position: Master student

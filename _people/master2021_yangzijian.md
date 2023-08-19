@@ -1,7 +1,7 @@
 ---
 title: Zijian Yang
 layout: people
-permalink: /people/2021Master_yangzijian.jpg
+permalink: /people/master2021_yangzijian.jpg
 status: Student
 pname: Zijian Yang
 position: Master student

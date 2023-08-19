@@ -1,7 +1,7 @@
 ---
 title: Yitong Zheng
 layout: people
-permalink: /people/2022Master_zhengyitong.jpg
+permalink: /people/master2022_zhengyitong.jpg
 status: Student
 pname: Yitong Zheng
 position: Master student

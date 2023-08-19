@@ -1,7 +1,7 @@
 ---
 title: Hongyan Chen
 layout: people
-permalink: /people/2021Master_chenhongyan.jpg
+permalink: /people/master2021_chenhongyan.jpg
 status: Student
 pname: Hongyan Chen
 position: Master student
