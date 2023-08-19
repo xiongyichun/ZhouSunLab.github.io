@@ -6,16 +6,22 @@ permalink: /software/
 ---
 
 # Software
-#### Single Cell Transcriptome
-- [**TISCH**](http://tisch.comp-genomics.org) &nbsp;
-(Tumor Immune Single-cell Hub) is a scRNA-seq database that includes over 6M human and mouse tumor scRNA-seq cells, and provides detailed cell-type annotation and gene expression visualization across different cancer types.
-- [**HUSCH**](http://husch.comp-genomics.org) &nbsp;
-(Human Universal Single-cell Hub) is a scRNA-seq database that includes over 3M human normal scRNA-seq cells from 41 tissue/organs, and provides detailed cell-type annotation and gene expression visualization across different tissue/organs.
-- [**SELINA**](https://github.com/wanglabtongji/SELINA.py) &nbsp;
-(Single-cELl Identity NAvigator) is a deep learning-based framework for cell-type annotation of human scRNA-seq data using large-scale curated references. 
-- [**SCREE**](https://github.com/wanglabtongji/SCREE/) &nbsp;
-(Single-cell CRISPR screen data analysEs and perturbation modEling) is a workflow to perform quality control and analyses of multimodal single-cell CRISPR screen datasets.
-
 #### Multimodal Medical Imaging Analysis by AI
-- On the way
+- [**PathoSig**](https://github.com/ZhouSunLab-Workshops/PathoSig) &nbsp;
+Histopathology images-based deep learning prediction of prognosis and therapeutic response in small cell lung cancer.
+- [**DeepDrAMD**](https://github.com/ZhouSunLab-Workshops/DeepDrAMD) &nbsp;
+Deep learning model on color fundus photographs for early detection AMD performance, classifying dryAMD and wetAMD and distinguish wetAMD type1 or type2 notification.
+- [**DeepDrRVO**](https://github.com/ZhouSunLab-Workshops/DeepDrRVO) &nbsp;
+Deep learning model on color fundus photographs for early recognition and differential diagnosis of retinal vascular occlusion.
 
+#### Computational Biology and Precision Medicine Model
+- [**CCML**](https://github.com/ZhouSunLab-Workshops/ccml) &nbsp;
+A two-step consensus clustering inputing multiple predictive labels with different sample coverages (missing labels) 
+- [**MLMRP**](https://github.com/ZhouSunLab-Workshops/MLMRP) &nbsp;
+All code for a multi-lncRNA diagnostic signature (MLMRPscore) for ESCC.
+- [**CCI**](https://github.com/ZhouSunLab-Workshops/CCI) &nbsp;
+CCI using machine learning method as a personalized prognosticator of immune subtyping which could accurately predict the survival and therapeutic response of SCLC patients in multicenter bulk transcriptomic data cohorts and immunohistochemistry cohorts.
+- [**MODeepHRD**](https://github.com/ZhouSunLab-Workshops/MODeepHRD) &nbsp;
+Multi-Omics integrative Deep-learning framework for HRD-positive phenotype detection. The MODeepHRD utilized a convolutional attention autoencoder that can leverage omics-specific and cross-omics complementary knowledge learning.
+- [**iUMRG**](https://github.com/ZhouSunLab-Workshops/iUMRG) &nbsp;
+Multi-layered network-guided propagation modeling for the inference of susceptibility genes in uveal melanoma.
