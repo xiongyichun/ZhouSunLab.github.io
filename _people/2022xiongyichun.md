@@ -4,7 +4,8 @@ layout: people
 permalink: /people/xiongyichun.jpg
 status: Student
 pname: Yichun Xiong
-position: position_aa
+position: Ph.D. Candidate
+grade: 2022
 office: 
 eml: 
 website: 

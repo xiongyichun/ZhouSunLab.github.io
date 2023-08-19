@@ -1,11 +1,11 @@
 ---
-title: Siqi Bao
+title: Zicheng Zhang
 layout: people
-permalink: /people/baosiqi.jpeg
+permalink: /people/zhangzicheng.jpg
 status: Student
-pname: Siqi Bao
+pname: Zicheng Zhang
 position: Ph.D. Candidate
-grade: 2021
+grade: 2022
 office: 
 eml: 
 website: 

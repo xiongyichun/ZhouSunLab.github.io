@@ -142,6 +142,50 @@ permalink: /people
 <hr class="large">
 
 <h3>Students</h3>
+	{% assign count = 0 %}
+    {% for people in site.people %}
+        {% if people.status == "Student" %}
+            {% assign count = count | plus:1 %}
+            {% if count > 1 %}
+            <hr>
+            {% endif %}
+            <div class="row">
+                <div class="col-lg-3" style="font-size: 1rem; padding-top: 1rem">
+                    <table class="table table-borderless table-sm">
+                        <tbody>
+                            <tr>
+                                <td style="text-align: center;" colspan="2">
+                                    <div class="rounded-circle" style="height: 200px; width: 200px; overflow: hidden; margin-bottom: 1rem"> 
+                                        <img src="assets/img{{people.permalink}}" data-action="zoom">
+                                    </div>
+                                </td>
+                            </tr>
+                            {% if people.pname %}
+                            <tr>
+                              <td><h3>{{people.pname}}</h3></td>
+                            </tr>
+                            {% endif %}
+
+                            {% if people.position %}
+                            <tr>
+                              <td>
+								<p>{{people.position}}</p>
+								<p>{{people.grade}}</p>
+							  </td>
+                            </tr>
+                            {% endif %}
+
+                            
+                        </tbody>
+                    </table>
+
+                </div>
+                
+            </div>
+        {% endif %}
+    {% endfor %}
+
+<!--
 <ul>
     {% assign count = 0 %}
     {% for people in site.people %}
@@ -206,6 +250,7 @@ permalink: /people
         {% endif %}
     {% endfor %}
 </ul>
+-->
 <hr class="large">
 
 <h3>Collaborating Students</h3>
