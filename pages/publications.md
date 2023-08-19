@@ -3,10 +3,10 @@ layout: news
 title: Publications
 subtitle: Publications in ZhouSun Lab
 permalink: /publications
-common-css:
-  - "assets/css/badge.dimensions.ai_badge.css"
-common-js:
-  - "assets/js/badge.js"
+css:
+  - "/assets/css/badge.dimensions.ai_badge.css"
+js:
+  - "/assets/js/badge.js"
 ---
 
 # Publications
@@ -189,6 +189,6 @@ Please visit [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&u
 
 
 ---
-common-js:
+js:
   - "/assets/js/badge.js"
 ---
