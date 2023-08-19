@@ -11,7 +11,7 @@ website:
 cv: 
 github: 
 linkedin:
-google_scholar: 
+google_scholar: https://scholar.google.com.hk/citations?hl=zh-CN&user=AxPc_IoAAAAJ
 twitter: 
 facebook: 
 instagram:
