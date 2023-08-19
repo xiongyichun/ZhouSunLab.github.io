@@ -187,3 +187,8 @@ Please visit [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&u
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/23063939)
 <span class='__dimensions_badge_embed__' data-pmid='23063939' data-style='large_rectangle' style='display: inline-block;'></span>
 
+
+---
+common-js:
+  - "/assets/js/badge.js"
+---
