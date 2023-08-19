@@ -155,27 +155,15 @@ permalink: /people
                         <tbody>
                             <tr>
                                 <td style="text-align: center;" colspan="2">
-                                    <div class="rounded-circle" style="height: 200px; width: 200px; overflow: hidden; margin-bottom: 1rem"> 
+                                    <div class="rounded-circle" style="height: 200px; width: 200px; overflow: hidden; margin-bottom: 1rem; text-align:center;"> 
                                         <img src="assets/img{{people.permalink}}" data-action="zoom">
+										<p style="font-weight:bold;">{{people.pname}}</p>
+										<p>{{people.position}}</p>
+										<p>{{people.grade}}</p>
+										
                                     </div>
                                 </td>
                             </tr>
-                            {% if people.pname %}
-                            <tr>
-                              <td><h3>{{people.pname}}</h3></td>
-                            </tr>
-                            {% endif %}
-
-                            {% if people.position %}
-                            <tr>
-                              <td>
-								<p>{{people.position}}</p>
-								<p>{{people.grade}}</p>
-							  </td>
-                            </tr>
-                            {% endif %}
-
-                            
                         </tbody>
                     </table>
 
