@@ -142,6 +142,7 @@ permalink: /people
 <hr class="large">
 
 <h3>Students</h3>
+<div>
 	{% assign count = 0 %}
     {% for people in site.people %}
         {% if people.status == "Student" %}
@@ -169,7 +170,7 @@ permalink: /people
             <!--</div>-->
         {% endif %}
     {% endfor %}
-
+</div>
 <!--
 <ul>
     {% assign count = 0 %}
@@ -236,6 +237,7 @@ permalink: /people
     {% endfor %}
 </ul>
 -->
+
 <hr class="large">
 
 <h3>Collaborating Students</h3>
