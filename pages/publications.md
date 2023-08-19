@@ -4,9 +4,9 @@ title: Publications
 subtitle: Publications in ZhouSun Lab
 permalink: /publications
 common-css:
-  - "/assets/css/badge.dimensions.ai_badge.css"
+  - "assets/css/badge.dimensions.ai_badge.css"
 common-js:
-  - "/assets/js/badge.js"
+  - "assets/js/badge.js"
 ---
 
 # Publications
