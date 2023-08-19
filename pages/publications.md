@@ -3,9 +3,6 @@ layout: news
 title: Publications
 subtitle: Publications in ZhouSun Lab
 permalink: /publications
-common-js:
-  - "/assets/js/badge.js"
-
 ---
 
 # Publications
