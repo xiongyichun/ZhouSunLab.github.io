@@ -188,7 +188,3 @@ Please visit [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&u
 <span class='__dimensions_badge_embed__' data-pmid='23063939' data-style='large_rectangle' style='display: inline-block;'></span>
 
 
----
-js:
-  - "/assets/js/badge.js"
----
