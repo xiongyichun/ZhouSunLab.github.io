@@ -1,11 +1,11 @@
 ---
-title: Siqi Bao
+title: Ying Tan
 layout: people
-permalink: /people/baosiqi.jpeg
+permalink: /people/2022Master_tanying.jpg
 status: Student
-pname: Siqi Bao
-position: Ph.D. Candidate
-grade: 2021
+pname: Ying Tan
+position: Master student
+grade: 2022
 office: 
 eml: 
 website: 

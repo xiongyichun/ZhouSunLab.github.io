@@ -1,9 +1,9 @@
 ---
-title: Yichun Xiong
+title: Zicheng Zhang
 layout: people
-permalink: /people/xiongyichun.jpg
+permalink: /people/doc2022_zhangzicheng.jpg
 status: Student
-pname: Yichun Xiong
+pname: Zicheng Zhang
 position: Ph.D. Candidate
 grade: 2022
 office: 

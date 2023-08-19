@@ -1,11 +1,11 @@
 ---
-title: Zicheng Zhang
+title: Yibo Zhang
 layout: people
-permalink: /people/zhangzicheng.jpg
+permalink: /people/2021Master_zhangyibo.jpg
 status: Student
-pname: Zicheng Zhang
-position: Ph.D. Candidate
-grade: 2022
+pname: Yibo Zhang
+position: Master student
+grade: 2021
 office: 
 eml: 
 website: 
