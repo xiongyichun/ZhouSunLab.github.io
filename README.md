@@ -30,4 +30,4 @@ The news page is located at `pages/news.md`. To add new news, please add new lis
 The positions page is located at `pages/positions.md`. To adjust positions, please modify the file.
 
 ## Acknowledgements
-We thank [[wanglabtongji]](https://github.com/wanglabtongji) for the development and open of nice template!
+We thank [wanglabtongji](https://github.com/wanglabtongji) for the development and opening of nice template!
