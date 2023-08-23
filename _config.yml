@@ -1,13 +1,14 @@
 # --- Basic options --- #
 
 # Name of website
-title: Zhou Group in Computational Precision Health (CPH@Zlab)
+title: ZhouSun’s Laboratory
 
 # Short description of your site
-description: Zhou Group in Computational Precision Health (CPH@Zlab)
+description: ZhouSun’s Laboratory in Computational Precision Health at WenZhou Medical University
+
 
 # Your name to show in the footer
-author: ZhouSun Lab
+author: ZhouSun’s Laboratory
 
 # --- List of links in the navigation bar --- #
 
@@ -31,7 +32,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /assets/img/logo.png
+title-img: /assets/img/logo.png
 
 # --- Footer options --- #
 
@@ -40,8 +41,8 @@ navbar-links:
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: biofomeng@hotmail.com
-  github: ZhouSunLab
-  google-scholar: Meng Zhou
+  github: ZhouSunLab-Workshops
+  google-scholar: citations?hl=zh-CN&user=O5RxsC8AAAAJ
 
 #  twitter: wang_chenfei
 #  rss: false
