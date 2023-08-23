@@ -7,7 +7,7 @@ pname: Meng Zhou
 position: Principle Investigator
 office: 
 eml: biofomeng@hotmail.com
-website: https://ZhouSunLab.github.io
+website: zhousunlab-workshops.github.io
 cv: 
 github: https://github.com/ZhouSunLab-Workshops?tab=repositories
 linkedin:
