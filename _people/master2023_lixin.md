@@ -1,7 +1,7 @@
 ---
 title: Xin Li
 layout: people
-permalink: /people/master2021_lixin.jpg
+permalink: /people/master2023_lixin.jpg
 status: Student
 pname: Xin Li
 position: Master student

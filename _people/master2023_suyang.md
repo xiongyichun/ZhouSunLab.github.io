@@ -1,7 +1,7 @@
 ---
 title: Yang Su
 layout: people
-permalink: /people/master2021_suyang.jpg
+permalink: /people/master2023_suyang.jpg
 status: Student
 pname: Yang Su
 position: Master student

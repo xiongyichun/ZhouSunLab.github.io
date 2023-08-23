@@ -1,7 +1,7 @@
 ---
 title: Jingzhe Huang
 layout: people
-permalink: /people/master2021_huangjingzhe.jpg
+permalink: /people/master2023_huangjingzhe.jpg
 status: Student
 pname: Jingzhe Huang
 position: Master student

@@ -1,7 +1,7 @@
 ---
 title: Jie Yu
 layout: people
-permalink: /people/master2021_yujie.jpg
+permalink: /people/master2023_yujie.jpg
 status: Student
 pname: Jie Yu
 position: Master student

@@ -1,7 +1,7 @@
 ---
 title: Caifeng Jia
 layout: people
-permalink: /people/master2021_jiacaifeng.jpg
+permalink: /people/master2023_jiacaifeng.jpg
 status: Student
 pname: Caifeng Jia
 position: Master student
