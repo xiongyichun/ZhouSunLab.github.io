@@ -2,7 +2,7 @@
 layout: news
 title: Software
 subtitle: Softwares in ZhouSun Lab
-permalink: /software/
+permalink: /software
 ---
 
 # Software
