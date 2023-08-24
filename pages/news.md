@@ -9,7 +9,7 @@ permalink: /news
 ### 2023
 
 #### August
-- Meng and Jie start their lab in Computational Precision Health (ZSlab@CPH) at Wenzhou Medical University.
+- Meng Zhou and Jie Sun start their lab in Computational Precision Health (ZSlab@CPH) at Wenzhou Medical University!
 - Congratulations to Lu, Meng and Jie contributing a paper about Noninvasive early differential diagnosis and progression monitoring of ovarian cancer using the copy number alterations of plasma cell-free DNA on Transl Res!
 
 #### July
