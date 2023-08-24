@@ -2,9 +2,9 @@
 title: Jie Sun
 layout: people
 permalink: /people/sunjie.jpg
-status: Principle Investigator
+status: Staff
 pname: Jie Sun
-position: Principle Investigator
+position: Staff
 office: 
 eml: suncarajie@hotmail.com
 website: 
