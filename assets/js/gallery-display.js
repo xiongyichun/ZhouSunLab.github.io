@@ -2,5 +2,6 @@
 $(document).ready(function() {
 	
 	//lightGallery($(".photoGallery"));
-	lightGallery(document.getElementsByClassName('photoGallery'));
+	//lightGallery(document.getElementsByClassName('photoGallery'));
+	$( '.photoGallery' ).lightGallery()
 });
