@@ -13,18 +13,28 @@ js:
 ---
 
 <h1>Gallery</h1>
-<hr class="large">
 <h3>2023</h3>
-<ul>
-    {% assign count = 0 %}
-    {% for pic in range (1, 10) %}
-        {% if os.path.exists('assets/img/gallery/20230603/'+pic+'.JPG')  %}
-            <img class="picture lazy" data-original="assets/img/gallery/20230603/{{pic}}.JPG" src="static/images/pictures/20230604/3.JPG" style="display: table-caption;">
-        {% endif %}
-    {% endfor %}
-</ul>
-<hr class="large">
+<div class="photoGallery">
+    <a href="assets/img/gallery/20230603/1.jpg">
+        <img src="assets/img/gallery/20230603/1.jpg" />
+    </a>
+    <a href="assets/img/gallery/20230603/2.jpg">
+        <img src="assets/img/gallery/20230603/2.jpg" />
+    </a>
+    <a href="assets/img/gallery/20230603/3.jpg">
+        <img src="assets/img/gallery/20230603/3.jpg" />
+    </a>
+</div>
 
 
 
-
+<script type="text/javascript">
+function initLoad() {
+    var lg = document.getElementByClassName('photoGallery');
+    lightGallery(lg, {
+        mode: 'lg-slide',
+        cssEasing: 'ease',
+        speed: 500
+    });
+}
+</script>
