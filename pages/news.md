@@ -9,6 +9,7 @@ permalink: /news
 ### 2023
 
 #### August
+- Congratulations to Yibo, Congcong, Meng and Jie contributing a paper about Multi-omics Deep-learning Prediction of Homologous Recombination Deficiency-like Phenotype Improved Risk Stratification and Guided Therapeutic Decisions in Gynecological Cancers on [IEEE J Biomed Health Inform](https://ieeexplore.ieee.org/document/10229115)!
 - Meng Zhou starts his lab in Computational Precision Health (ZSlab@CPH) at Wenzhou Medical University!
 - Congratulations to Lu, Meng and Jie contributing a paper about Noninvasive early differential diagnosis and progression monitoring of ovarian cancer using the copy number alterations of plasma cell-free DNA on Transl Res!
 
