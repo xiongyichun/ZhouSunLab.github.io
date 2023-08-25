@@ -1,7 +1,7 @@
 
 $(document).ready(function() {
 	
-	$("#people_alumni").load("people_alumni.html");
+	$("#people_alumni").load("pages/people_alumni.html");
 	
 });
 
