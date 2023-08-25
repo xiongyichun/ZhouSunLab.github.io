@@ -15,6 +15,9 @@ Please visit [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&u
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2023
+- **Zhang Y#**, **Yan C#**, **Yang Z**, **`Zhou M*`**, **`Sun J*`**. Multi-omics Deep-learning Prediction of Homologous Recombination Deficiency-like Phenotype Improved Risk Stratification and Guided Therapeutic Decisions in Gynecological Cancers. _**IEEE Journal of Biomedical and Health Informatics**_, 2023, doi: 10.1109/JBHI.2023.3308440.
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/37616142)
+<span class='__dimensions_badge_embed__' data-pmid='37616142' data-style='large_rectangle' style='display: inline-block;'></span>
 - **Chen L#**, Ma R#, Luo C#, Xie Q#, Ning X, Sun K, Meng F\*, **`Zhou M*`**, **`Sun J*`**. Noninvasive early differential diagnosis and progression monitoring of ovarian cancer using the copy number alterations of plasma cell-free DNA. _**Translational Ressearch**_, 2023, S1931-5244(23)00126-3.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/37499745)
 <span class='__dimensions_badge_embed__' data-pmid='37499745' data-style='large_rectangle' style='display: inline-block;'></span>
