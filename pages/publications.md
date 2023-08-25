@@ -1,7 +1,7 @@
 ---
 layout: news
 title: Publications
-subtitle: Publications in ZhouSun Lab
+subtitle: Publications in Zhou Lab
 permalink: /publications
 css:
   - "/assets/css/badge.dimensions.ai_badge.css"
