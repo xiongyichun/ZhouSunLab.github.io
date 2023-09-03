@@ -77,12 +77,11 @@ Please visit [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&u
 - **Bao S#**, **Li K**, **Yan C**, **Zhang Z**, Qu J\*, **`Zhou M*`**. Deep learning-based advances and applications for single-cell RNA-sequencing data analysis.  _**Briefings in Bioinformatics**_, 2022, 23(1):bbab473.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/34849562)
 <span class='__dimensions_badge_embed__' data-pmid='34849562' data-style='large_rectangle' style='display: inline-block;'></span>
-
-
-### 2021
 - **Li K#**, **Yan C#**, **Li C#**, **Chen L**, **Zhao J**, **Zhang Z**, **Bao S**, **`Sun J*`**, **`Zhou M*`**. Computational elucidation of spatial gene expression variation from spatially resolved transcriptomics data. _**Molecular Therapy - Nucleic Acids**_, 2022, 27:404-411. 
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/35036053)
 <span class='__dimensions_badge_embed__' data-pmid='35036053' data-style='large_rectangle' style='display: inline-block;'></span>
+
+### 2021
 - Li CX#, Gao J#, **Zhang Z**, **Chen L**, Li X\*, **`Zhou M*`**, Wheelock ÅM\*. Multiomics integration-based molecular characterizations of COVID-19. _**Briefings in Bioinformatics**_, 2021, 23(1):bbab485.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/34864875)
 <span class='__dimensions_badge_embed__' data-pmid='34864875' data-style='large_rectangle' style='display: inline-block;'></span>
