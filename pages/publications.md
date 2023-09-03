@@ -74,11 +74,15 @@ Please visit [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&u
 - **`Sun J#`**, **Yan C#**, Xu D#, **Zhang Z**, **Li K**, Li X, **`Zhou M*`** & Hao D\*. Immuno-genomic characterisation of high-grade serous ovarian cancer reveals immune evasion mechanisms and identifies an immunological subtype with a favourable prognosis and improved therapeutic efficacy. _**British Journal of Cancer**_, 2022, 126(11):1570-1580.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/35017656)
 <span class='__dimensions_badge_embed__' data-pmid='35017656' data-style='large_rectangle' style='display: inline-block;'></span>
-
-### 2021
-- **Bao S#**, **Li K**, **Yan C**, **Zhang Z**, Qu J\*, **`Zhou M*`**. Deep learning-based advances and applications for single-cell RNA-sequencing data analysis.  _**Briefings in Bioinformatics**_, 2021, 23(1):bbab473.
+- **Bao S#**, **Li K**, **Yan C**, **Zhang Z**, Qu J\*, **`Zhou M*`**. Deep learning-based advances and applications for single-cell RNA-sequencing data analysis.  _**Briefings in Bioinformatics**_, 2022, 23(1):bbab473.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/34849562)
 <span class='__dimensions_badge_embed__' data-pmid='34849562' data-style='large_rectangle' style='display: inline-block;'></span>
+
+
+### 2021
+- **Li K#**, **Yan C#**, **Li C#**, **Chen L**, **Zhao J**, **Zhang Z**, **Bao S**, **`Sun J*`**, **`Zhou M*`**. Computational elucidation of spatial gene expression variation from spatially resolved transcriptomics data. _**Molecular Therapy - Nucleic Acids**_, 2022, 27:404-411. 
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/35036053)
+<span class='__dimensions_badge_embed__' data-pmid='35036053' data-style='large_rectangle' style='display: inline-block;'></span>
 - Li CX#, Gao J#, **Zhang Z**, **Chen L**, Li X\*, **`Zhou M*`**, Wheelock ÅM\*. Multiomics integration-based molecular characterizations of COVID-19. _**Briefings in Bioinformatics**_, 2021, 23(1):bbab485.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/34864875)
 <span class='__dimensions_badge_embed__' data-pmid='34864875' data-style='large_rectangle' style='display: inline-block;'></span>
@@ -114,6 +118,12 @@ Please visit [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&u
 <span class='__dimensions_badge_embed__' data-pmid='33367533' data-style='large_rectangle' style='display: inline-block;'></span>
 
 ### 2020
+- Chen XJ#, **Zhang ZC#**, Wang XY#, **Zhao HQ**, Li ML, Ma Y, Ji YY, Zhang CJ, Wu KC, Xiang L, Sun LF, **`Zhou M*`**, Jin ZB\*. The Circular RNome of Developmental Retina in Mice. _**Molecular Therapy - Nucleic Acids**_, 2020, 19:339-349. 
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/31877410)
+<span class='__dimensions_badge_embed__' data-pmid='31877410' data-style='large_rectangle' style='display: inline-block;'></span>
+- **Yang C**, **Zhang Z**, **Bao S**, **Hou P**, **`Zhou M`**, Xu C\*, **`Sun J*`**. Computational Methods and Applications for Identifying Disease-Associated lncRNAs as Potential Biomarkers and Therapeutic Targets. _**Molecular Therapy - Nucleic Acids**_, 2020, 21:156-171.
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32585624)
+<span class='__dimensions_badge_embed__' data-pmid='32585624' data-style='large_rectangle' style='display: inline-block;'></span>
 - **Zhang Y#**, **Ma Y#**, **Huang Y**, **Zhang Y**, **Jiang Q**, **`Zhou M`**, **Su J\***. Benchmarking algorithms for pathway activity transformation of single-cell RNA-seq data.  _**Computational and Structural Biotechnology Journal**_, 2020, 18:2953-2961
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/33209207)
 <span class='__dimensions_badge_embed__' data-pmid='33209207' data-style='large_rectangle' style='display: inline-block;'></span>
