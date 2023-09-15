@@ -10,10 +10,10 @@ permalink: /news
 
 #### August
 - Congratulations to Yibo, Congcong, Meng and Jie contributing a paper about Multi-omics Deep-learning Prediction of Homologous Recombination Deficiency-like Phenotype Improved Risk Stratification and Guided Therapeutic Decisions in Gynecological Cancers on [IEEE J Biomed Health Inform](https://ieeexplore.ieee.org/document/10229115)!
-- Meng Zhou starts his lab in Computational Precision Health (ZSlab@CPH) at Wenzhou Medical University!
-- Congratulations to Lu, Meng and Jie contributing a paper about Noninvasive early differential diagnosis and progression monitoring of ovarian cancer using the copy number alterations of plasma cell-free DNA on Transl Res!
+- **Meng Zhou starts his lab in Computational Precision Health (ZSlab@CPH) at Wenzhou Medical University!**
 
 #### July
+- Congratulations to Lu, Meng and Jie contributing a paper about Noninvasive early differential diagnosis and progression monitoring of ovarian cancer using the copy number alterations of plasma cell-free DNA on Transl Res!
 - Congratulations to Zhenhui, Chenghao and Jianzhong contributing a review about Liquid biopsies for cancer: From bench to clinic on MedComm!
 - Congratulations! Zicheng, Hongyan, Jie and Meng contributed a paper about Deep learning identifies a T-cell exhaustion-dependent transcriptional signature for predicting clinical outcomes and response to immune checkpoint blockade on Oncogenesis.
 - Congratulations! Zicheng and Meng contributed a paper about Multi-dimensional characterization of immunological profiles in small cell lung cancer uncovers clinically relevant immune subtypes with distinct prognoses and therapeutic vulnerabilities on Pharmacological Research. 
