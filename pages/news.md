@@ -9,6 +9,7 @@ permalink: /news
 ### 2023
 
 #### August
+- Congratulations to Zicheng and Meng contributing a paper about DNA damage repair profiling of esophageal squamous cell carcinoma uncovers clinically relevant molecular subtypes with distinct prognoses and therapeutic vulnerabilities on [eBioMedicine](https://www.sciencedirect.com/science/article/pii/S2352396423003675)!
 - Congratulations to Yibo, Congcong, Meng and Jie contributing a paper about Multi-omics Deep-learning Prediction of Homologous Recombination Deficiency-like Phenotype Improved Risk Stratification and Guided Therapeutic Decisions in Gynecological Cancers on [IEEE J Biomed Health Inform](https://ieeexplore.ieee.org/document/10229115)!
 - **Meng Zhou starts his lab in Computational Precision Health (ZSlab@CPH) at Wenzhou Medical University!**
 

@@ -15,6 +15,9 @@ Please visit [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&u
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2023
+- Zhao N#, **Zhang Z#**, Wang Q#, Li L#, Wei Z, Chen H\*, **`Zhou M*`**, Liu Z\*, Su J\*. DNA damage repair profiling of esophageal squamous cell carcinoma uncovers clinically relevant molecular subtypes with distinct prognoses and therapeutic vulnerabilities. _**eBioMedicine**_, 2023, doi: 10.1016/j.ebiom.2023.104801.
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/)
+<span class='__dimensions_badge_embed__' data-pmid='' data-style='large_rectangle' style='display: inline-block;'></span>
 - **Zhang Y#**, **Yan C#**, **Yang Z**, **`Zhou M*`**, **`Sun J*`**. Multi-omics Deep-learning Prediction of Homologous Recombination Deficiency-like Phenotype Improved Risk Stratification and Guided Therapeutic Decisions in Gynecological Cancers. _**IEEE Journal of Biomedical and Health Informatics**_, 2023, doi: 10.1109/JBHI.2023.3308440.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/37616142)
 <span class='__dimensions_badge_embed__' data-pmid='37616142' data-style='large_rectangle' style='display: inline-block;'></span>
