@@ -11,7 +11,7 @@ js:
 
 # Publications
 
-Please visit [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=O5RxsC8AAAAJ) for more details.<br>
+Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=O5RxsC8AAAAJ&view_op=list_works&sortby=pubdate) for more details.<br>
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2023

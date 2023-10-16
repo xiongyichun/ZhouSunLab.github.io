@@ -11,7 +11,7 @@ website: https://zhoulabcph.github.io/
 cv: 
 github: https://github.com/ZhoulabCPH
 linkedin:
-google_scholar: https://scholar.google.com.hk/citations?hl=zh-CN&user=O5RxsC8AAAAJ
+google_scholar: https://scholar.google.com/citations?hl=zh-CN&user=O5RxsC8AAAAJ&view_op=list_works&sortby=pubdate
 twitter: 
 facebook: 
 instagram:
