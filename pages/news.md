@@ -9,7 +9,7 @@ permalink: /news
 ### 2023
 #### October
 - Congratulations! Ke Li's paper about Sing-cell dissection of the multicellular ecosystem and molecular features underlying microvascular invasion in hepatocellular carcinoma is accepted by _**HEPATOLOGY**_!
-- Congratulations! Ke Xu's paper about Automatic detection and differential diagnosis of age-related macular degeneration from color fundus photographs using deep learning with hierarchical vision transforme is accepted by _**Computers in Biology and Medicine**_!
+- Congratulations! Ke Xu's paper about Automatic detection and differential diagnosis of age-related macular degeneration from color fundus photographs using deep learning with hierarchical vision transformer is accepted by _**Computers in Biology and Medicine**_!
 - Congratulations! Ke Li's paper about Single-cell characterization of macrophages in uveal melanoma uncovers transcriptionally heterogeneous subsets conferring poor prognosis and aggressive behavior is accepted by _**Experimental & Molecular Medicine**_!
 
 #### August
