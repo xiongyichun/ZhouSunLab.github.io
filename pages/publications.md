@@ -15,7 +15,7 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2023
-- **Xu K#**, Huang S#, Yang Z#, Zhang Y, Fang Y, Zheng G, Lin B\*, **`Zhou M*`**, **`Sun J*`**. Automatic detection and differential diagnosis of age-related macular degeneration from color fundus photographs using deep learning with hierarchical vision transformer. _**Computers in Biology and Medicine**_, 2023, doi: 10.1016/j.compbiomed.2023.107616.
+- **Xu K#**, Huang S#, Yang Z#, Zhang Y, Fang Y, Zheng G, Lin B\*, **`Zhou M*`**, **`Sun J*`**. Automatic detection and differential diagnosis of age-related macular degeneration from color fundus photographs using deep learning with hierarchical vision transformer. _**Computers in Biology and Medicine**_, 2023, 167:107616.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/)
 - **Li K#**, Sun L#, Wang Y#, **Cen Y**, **Zhao J**, Liao Q, Wu W\*, **`Sun J*`** and **`Zhou M*`**. Single-cell characterization of macrophages in uveal melanoma uncovers transcriptionally heterogeneous subsets conferring poor prognosis and aggressive behavior. _**Experimental & Molecular Medicine**_, 2023, doi: 10.1038/s12276-023-01115-9.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/)
@@ -25,7 +25,7 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 - **Zhang Y#**, **Yan C#**, **Yang Z**, **`Zhou M*`**, **`Sun J*`**. Multi-omics Deep-learning Prediction of Homologous Recombination Deficiency-like Phenotype Improved Risk Stratification and Guided Therapeutic Decisions in Gynecological Cancers. _**IEEE Journal of Biomedical and Health Informatics**_, 2023, doi: 10.1109/JBHI.2023.3308440.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/37616142)
 <span class='__dimensions_badge_embed__' data-pmid='37616142' data-style='large_rectangle' style='display: inline-block;'></span>
-- **Chen L#**, Ma R#, Luo C#, Xie Q#, Ning X, Sun K, Meng F\*, **`Zhou M*`**, **`Sun J*`**. Noninvasive early differential diagnosis and progression monitoring of ovarian cancer using the copy number alterations of plasma cell-free DNA. _**Translational Research**_, 2023, S1931-5244(23)00126-3.
+- **Chen L#**, Ma R#, Luo C#, Xie Q#, Ning X, Sun K, Meng F\*, **`Zhou M*`**, **`Sun J*`**. Noninvasive early differential diagnosis and progression monitoring of ovarian cancer using the copy number alterations of plasma cell-free DNA. _**Translational Research**_, 2023, 262:12-24.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/37499745)
 <span class='__dimensions_badge_embed__' data-pmid='37499745' data-style='large_rectangle' style='display: inline-block;'></span>
 - **Zhang Z#**, **Chen H#**, **Yan D**, **Chen L**, **`Sun J*`** & **`Zhou M*`**. Deep learning identifies a T-cell exhaustion-dependent transcriptional signature for predicting clinical outcomes and response to immune checkpoint blockade. _**Oncogenesis**_, 2023, 12(1):37.
