@@ -15,7 +15,9 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2023
-- **Li K#**, Sun L#, Wang Y#, **Cen Y**, **Zhao J**, Liao Q, Wu W*, **`Sun J*`** and **`Zhou M*`**. Single-cell characterization of macrophages in uveal melanoma uncovers transcriptionally heterogeneous subsets conferring poor prognosis and aggressive behavior. _**Experimental & Molecular Medicine**_, 2023, doi: 10.1038/s12276-023-01115-9.
+- **Xu K#**, Huang S#, Yang Z#, Zhang Y, Fang Y, Zheng G, Lin B\*, **`Zhou M*`**, **`Sun J*`**. _**Computers in Biology and Medicine**_, 2023, doi: 10.1016/j.compbiomed.2023.107616.
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/)
+- **Li K#**, Sun L#, Wang Y#, **Cen Y**, **Zhao J**, Liao Q, Wu W\*, **`Sun J*`** and **`Zhou M*`**. Single-cell characterization of macrophages in uveal melanoma uncovers transcriptionally heterogeneous subsets conferring poor prognosis and aggressive behavior. _**Experimental & Molecular Medicine**_, 2023, doi: 10.1038/s12276-023-01115-9.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/)
 - Zhao N#, **Zhang Z#**, Wang Q#, Li L#, Wei Z, Chen H\*, **`Zhou M*`**, Liu Z\*, Su J\*. DNA damage repair profiling of esophageal squamous cell carcinoma uncovers clinically relevant molecular subtypes with distinct prognoses and therapeutic vulnerabilities. _**eBioMedicine**_, 2023, 96:104801.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/37725855)
