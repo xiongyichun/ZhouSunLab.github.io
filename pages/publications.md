@@ -15,7 +15,7 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2023
-- **Li K#**, Zhang R#, Wen F#, Zhao Y, Meng F, Li Q, Hao A, Yang B, Lu Z*, Cui Y*, **`Zhou M*`**. Single-cell dissection of the multicellular ecosystem and molecular features underlying microvascular invasion in hepatocellular carcinoma. _**Hepatology**_, 2023, doi: 10.1097/HEP.0000000000000673.
+- **Li K#**, Zhang R#, Wen F#, Zhao Y, Meng F, Li Q, Hao A, Yang B, Lu Z\*, Cui Y\*, **`Zhou M*`**. Single-cell dissection of the multicellular ecosystem and molecular features underlying microvascular invasion in hepatocellular carcinoma. _**Hepatology**_, 2023, doi: 10.1097/HEP.0000000000000673.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/37972953)
 <span class='__dimensions_badge_embed__' data-pmid='37972953' data-style='large_rectangle' style='display: inline-block;'></span>
 - **Xu K#**, Huang S#, Yang Z#, Zhang Y, Fang Y, Zheng G, Lin B\*, **`Zhou M*`**, **`Sun J*`**. Automatic detection and differential diagnosis of age-related macular degeneration from color fundus photographs using deep learning with hierarchical vision transformer. _**Computers in Biology and Medicine**_, 2023, 167:107616.
