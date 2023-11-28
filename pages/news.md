@@ -8,7 +8,7 @@ permalink: /news
 
 ### 2023
 #### November
-- Congratulations to Meng's collaborating paper about *Single-Cell Landscape Reveals the Epithelial Cell-Centric Proinflammatory Immune Microenvironment in Dry Eye Development* published on [Mucosal Immunology](https://www.sciencedirect.com/science/article/pii/S1933021923000910)!
+- Congratulations to Meng about collaborating paper of **Single-Cell Landscape Reveals the Epithelial Cell-Centric Proinflammatory Immune Microenvironment in Dry Eye Development** published on [Mucosal Immunology](https://www.sciencedirect.com/science/article/pii/S1933021923000910)!
 #### October
 - Congratulations! Ke Li's paper about Sing-cell dissection of the multicellular ecosystem and molecular features underlying microvascular invasion in hepatocellular carcinoma was accepted by _**HEPATOLOGY**_!
 - Congratulations! Ke Xu's paper about Automatic detection and differential diagnosis of age-related macular degeneration from color fundus photographs using deep learning with hierarchical vision transformer was published on [Computers in Biology and Medicine](https://www.sciencedirect.com/science/article/abs/pii/S0010482523010818)!
