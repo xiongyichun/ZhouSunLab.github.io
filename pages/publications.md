@@ -15,6 +15,9 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2023
+- Liu Z#, Xie H#, Li L#, Jiang D, Qian Y, Zhu X, Dai M, Li Y, Wei R, Luo Z, Xu W, Zheng Q, Shen J, **`Zhou M`**, Zeng W\*, Chen W\*. Single-Cell Landscape Reveals the Epithelial Cell-Centric Proinflammatory Immune Microenvironment in Dry Eye Development. _**Mucosal Immunology**_, 2023, S1933-0219(23)00091-0.
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/38007004)
+<span class='__dimensions_badge_embed__' data-pmid='38007004' data-style='large_rectangle' style='display: inline-block;'></span>
 - **Li K#**, Zhang R#, Wen F#, Zhao Y, Meng F, Li Q, Hao A, Yang B, Lu Z\*, Cui Y\*, **`Zhou M*`**. Single-cell dissection of the multicellular ecosystem and molecular features underlying microvascular invasion in hepatocellular carcinoma. _**Hepatology**_, 2023, doi: 10.1097/HEP.0000000000000673.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/37972953)
 <span class='__dimensions_badge_embed__' data-pmid='37972953' data-style='large_rectangle' style='display: inline-block;'></span>
@@ -207,7 +210,7 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 - Hao D#\*, Li C, Zhang S, Lu J, Jiang Y, Wang S, **`Zhou M*`**. Network-based analysis of genotype-phenotype correlations between different inheritance modes. _**Bioinformatics**_, 2014, 30:3223-3231.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/25078399)
 <span class='__dimensions_badge_embed__' data-pmid='25078399' data-style='large_rectangle' style='display: inline-block;'></span>
-- **`Sun J#`**, Gao B#, `Zhou M#`\*, Wang ZZ, Zhang F, Deng JE, Li X\*. Comparative genomic analysis reveals evolutionary characteristics and patterns of microRNA clusters in vertebrates. _**Gene**_, 2013, 512:383-391.
+- **`Sun J#`**, Gao B#, **`Zhou M#*`**, Wang ZZ, Zhang F, Deng JE, Li X\*. Comparative genomic analysis reveals evolutionary characteristics and patterns of microRNA clusters in vertebrates. _**Gene**_, 2013, 512:383-391.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/23063939)
 <span class='__dimensions_badge_embed__' data-pmid='23063939' data-style='large_rectangle' style='display: inline-block;'></span>
 
