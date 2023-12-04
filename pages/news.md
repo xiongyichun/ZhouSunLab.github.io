@@ -7,6 +7,7 @@ permalink: /news
 # News
 
 ### 2023
+
 #### December
 - Congratulations! Hongyan and Meng's paper about *Consensus clustering with missing labels (ccml): a consensus clustering tool for multi-omics integrative prediction in cohorts with unequal sample coverage* was accepted by _**Briefings in Bioinformatics**_!
 #### November
