@@ -7,6 +7,8 @@ permalink: /news
 # News
 
 ### 2023
+#### December
+- Congratulations! Hongyan and Meng's paper about *Consensus clustering with missing labels (ccml): a consensus clustering tool for multi-omics integrative prediction in cohorts with unequal sample coverage* was accepted by _**Briefings in Bioinformatics**_!
 #### November
 - Congratulations to Meng about collaborating paper of *Single-Cell Landscape Reveals the Epithelial Cell-Centric Proinflammatory Immune Microenvironment in Dry Eye Development* published on [Mucosal Immunology](https://www.sciencedirect.com/science/article/pii/S1933021923000910)!
 #### October

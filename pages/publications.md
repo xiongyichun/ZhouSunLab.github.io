@@ -15,6 +15,7 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2023
+- Li CX#, **Chen H#**, Kermani NZ, Adcock IM, Sköld CM, **`Zhou M*`**, Wheelock ÅM\*, U-BIOPRED study group. Consensus clustering with missing labels (ccml): a consensus clustering tool for multi-omics integrative prediction in cohorts with unequal sample coverage. _**Briefings in Bioinformatics**_, 2023, accepted.
 - Liu Z#, Xie H#, Li L#, Jiang D, Qian Y, Zhu X, Dai M, Li Y, Wei R, Luo Z, Xu W, Zheng Q, Shen J, **`Zhou M`**, Zeng W\*, Chen W\*. Single-Cell Landscape Reveals the Epithelial Cell-Centric Proinflammatory Immune Microenvironment in Dry Eye Development. _**Mucosal Immunology**_, 2023, S1933-0219(23)00091-0.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/38007004)
 <span class='__dimensions_badge_embed__' data-pmid='38007004' data-style='large_rectangle' style='display: inline-block;'></span>
