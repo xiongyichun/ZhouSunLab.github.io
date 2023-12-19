@@ -25,7 +25,7 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 - **Xu K#**, Huang S#, Yang Z#, Zhang Y, Fang Y, Zheng G, Lin B\*, **`Zhou M*`**, **`Sun J*`**. Automatic detection and differential diagnosis of age-related macular degeneration from color fundus photographs using deep learning with hierarchical vision transformer. _**Computers in Biology and Medicine**_, 2023, 167:107616.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/37922601)
 <span class='__dimensions_badge_embed__' data-pmid='37922601' data-style='large_rectangle' style='display: inline-block;'></span>
-- **Li K#**, Sun L#, Wang Y#, **Cen Y**, **Zhao J**, Liao Q, Wu W\*, **`Sun J*`** and **`Zhou M*`**. Single-cell characterization of macrophages in uveal melanoma uncovers transcriptionally heterogeneous subsets conferring poor prognosis and aggressive behavior. _**Experimental & Molecular Medicine**_, 2023, doi: 10.1038/s12276-023-01115-9.
+- **Li K#**, Sun L#, Wang Y#, **Cen Y**, **Zhao J**, Liao Q, Wu W\*, **`Sun J*`** and **`Zhou M*`**. Single-cell characterization of macrophages in uveal melanoma uncovers transcriptionally heterogeneous subsets conferring poor prognosis and aggressive behavior. _**Experimental & Molecular Medicine**_, 2023, 55(11):2433-2444.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/37907747)
 <span class='__dimensions_badge_embed__' data-pmid='37907747' data-style='large_rectangle' style='display: inline-block;'></span>
 - Zhao N#, **Zhang Z#**, Wang Q#, Li L#, Wei Z, Chen H\*, **`Zhou M*`**, Liu Z\*, Su J\*. DNA damage repair profiling of esophageal squamous cell carcinoma uncovers clinically relevant molecular subtypes with distinct prognoses and therapeutic vulnerabilities. _**eBioMedicine**_, 2023, 96:104801.
