@@ -6,6 +6,12 @@ permalink: /news
 
 # News
 
+### 2024
+
+#### January
+- Congratulations! Zijian, Yibo, Jie and Meng's paper about *Prediction of prognosis and treatment response in ovarian cancer patients from histopathology images using graph deep learning: a multicenter retrospective study* was accepted by _**European Journal of Cancer**_!
+- Congratulations! Yibo, Zijian and Meng's paper about *Histopathology images-based deep learning prediction of prognosis and therapeutic response in small cell lung cancer* was accepted by _**npj Digital Medicine**_!
+
 ### 2023
 
 #### December
