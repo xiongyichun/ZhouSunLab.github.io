@@ -9,6 +9,7 @@ permalink: /news
 ### 2024
 
 #### January
+- Congratulations to Yaxuan and Meng about research paper about *The effect of the gut microbiome in glaucoma risk from the causal perspective* accepted by _**BMJ Open Ophthalmology**_!
 - Congratulations! Zijian, Yibo, Jie and Meng's paper about *Prediction of prognosis and treatment response in ovarian cancer patients from histopathology images using graph deep learning: a multicenter retrospective study* was accepted by _**European Journal of Cancer**_!
 - Congratulations! Yibo, Zijian and Meng's paper about *Histopathology images-based deep learning prediction of prognosis and therapeutic response in small cell lung cancer* was accepted by _**npj Digital Medicine**_!
 
