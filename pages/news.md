@@ -9,7 +9,8 @@ permalink: /news
 ### 2024
 
 #### January
-- Congratulations to Yaxuan, Ronghua and Meng about research paper about *The effect of the gut microbiome in glaucoma risk from the causal perspective* accepted by _**BMJ Open Ophthalmology**_!
+- Congratulations! Ronghua and Yaxuan's paper about *The causal effect of oxidative stress on the risk of glaucoma* was accepted by _**Heliyon**_!
+- Congratulations to Yaxuan and Ronghua on the acceptance of their research paper titled *The effect of the gut microbiome in glaucoma risk from the causal perspective* by _**BMJ Open Ophthalmology**_!
 - Congratulations! Zijian, Yibo, Jie and Meng's paper about *Prediction of prognosis and treatment response in ovarian cancer patients from histopathology images using graph deep learning: a multicenter retrospective study* was accepted by _**European Journal of Cancer**_!
 - Congratulations! Yibo, Zijian and Meng's paper about *Histopathology images-based deep learning prediction of prognosis and therapeutic response in small cell lung cancer* was accepted by _**npj Digital Medicine**_!
 
