@@ -15,7 +15,10 @@ Please visit [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2024
+- **Yang Z#**, **Zhang Y#**, **Zhuo L**, Sun K, Meng F\*, **`Zhou M*`**, **`Sun J*`**. Prediction of prognosis and treatment response in ovarian cancer patients from histopathology images using graph deep learning: a multicenter retrospective study. _**European Journal of Cancer**_, 2024, doi: 10.1016/j.ejca.2024.113532.
 - Li CX#, **Chen H#**, Kermani NZ, Adcock IM, Sköld CM, **`Zhou M*`**, Wheelock ÅM\*, U-BIOPRED study group. Consensus clustering with missing labels (ccml): a consensus clustering tool for multi-omics integrative prediction in cohorts with unequal sample coverage. _**Briefings in Bioinformatics**_, 2024, 25(1):bbad501.
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/38205966)
+<span class='__dimensions_badge_embed__' data-pmid='38205966' data-style='large_rectangle' style='display: inline-block;'></span>
 
 ### 2023
 - Liu Z#, Xie H#, Li L#, Jiang D, Qian Y, Zhu X, Dai M, Li Y, Wei R, Luo Z, Xu W, Zheng Q, Shen J, **`Zhou M`**, Zeng W\*, Chen W\*. Single-Cell Landscape Reveals the Epithelial Cell-Centric Proinflammatory Immune Microenvironment in Dry Eye Development. _**Mucosal Immunology**_, 2023, S1933-0219(23)00091-0.
